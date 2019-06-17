@@ -6,7 +6,7 @@ import Post from '../models/Post'
 
 const Wrapper = styled.div`
   display: flex;
-  margin: 6rem auto 0 auto;
+  margin: 3rem auto;
   a {
     color: ${props => props.theme.colors.primary};
     display: flex;
