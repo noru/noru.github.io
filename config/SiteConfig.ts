@@ -2,7 +2,7 @@ export default {
   pathPrefix: '/',
   siteTitle: 'Drew\'s Workbench', // Navigation and Site Title
   siteTitleAlt: '', // Alternative Site title for SEO
-  siteUrl: 'https://xiuz.hu', // Domain of your site. No trailing slash!
+  siteUrl: 'https://blog.xiuz.hu', // Domain of your site. No trailing slash!
   siteLanguage: 'en', // Language Tag on <html> element
   siteBanner: '/assets/banner.jpg', // Your image for og:image tag. You can find it in the /static folder
   defaultBg: '/assets/bg.png', // default post background header
