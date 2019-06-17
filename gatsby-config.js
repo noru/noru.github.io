@@ -1,13 +1,13 @@
-require('source-map-support').install();
+require('source-map-support').install()
 require('ts-node').register({
   compilerOptions: {
     module: 'commonjs',
     target: 'es2017',
   },
-});
+})
 
-const config = require('./config/SiteConfig').default;
-const pathPrefix = config.pathPrefix === '/' ? '' : config.pathPrefix;
+const config = require('./config/SiteConfig').default
+const pathPrefix = config.pathPrefix === '/' ? '' : config.pathPrefix
 
 module.exports = {
   pathPrefix: config.pathPrefix,
@@ -38,7 +38,7 @@ module.exports = {
         head: false,
         sampleRate: 5,
         siteSpeedSampleRate: 10,
-        cookieDomain: "*.xiuz.hu",
+        cookieDomain: '*.xiuz.hu',
       },
     },
     {
@@ -86,4 +86,4 @@ module.exports = {
       },
     },
   ]
-};
+}

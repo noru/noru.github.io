@@ -1,39 +1,38 @@
-const path = require('path');
-const _ = require('lodash');
-const config = require('./config/SiteConfig').default;
+const path = require('path')
+const _ = require('lodash')
+const config = require('./config/SiteConfig').default
 
 exports.onCreateNode = ({ node, actions }) => {
-  const { createNodeField } = actions;
+  const { createNodeField } = actions
   if (node.internal.type === 'MarkdownRemark' && _.has(node, 'frontmatter') && _.has(node.frontmatter, 'title')) {
-    const slug = `${_.kebabCase(node.frontmatter.title)}`;
-    createNodeField({ node, name: 'slug', value: slug });
+    const slug = `${_.kebabCase(node.frontmatter.title)}`
+    createNodeField({ node, name: 'slug', value: slug })
   }
-};
+}
 
 const getPostsByType = (posts, classificationType) => {
-  const postsByType = {};
+  const postsByType = {}
   posts.forEach(({ node }) => {
-    const nodeClassificationType = node.frontmatter[classificationType];
+    const nodeClassificationType = node.frontmatter[classificationType]
     if (nodeClassificationType) {
       if (_.isArray(nodeClassificationType)) {
         nodeClassificationType.forEach(name => {
           if (!_.has(postsByType, name)) {
-            postsByType[name] = [];
+            postsByType[name] = []
           }
-          postsByType[name].push(node);
-        });
-      }
-      else {
-        const name = nodeClassificationType;
+          postsByType[name].push(node)
+        })
+      } else {
+        const name = nodeClassificationType
         if (!postsByType[name]) {
-          postsByType[name] = [];
+          postsByType[name] = []
         }
-        postsByType[name].push(node);
+        postsByType[name].push(node)
       }
     }
-  });
-  return postsByType;
-};
+  })
+  return postsByType
+}
 
 const createClassificationPages = ({ createPage, posts, postsPerPage, numPages }) => {
   const classifications = [
@@ -55,10 +54,10 @@ const createClassificationPages = ({ createPage, posts, postsPerPage, numPages }
       },
       postsByClassificationNames: getPostsByType(posts, 'tags'),
     },
-  ];
+  ]
 
   classifications.forEach(classification => {
-    const names = Object.keys(classification.postsByClassificationNames);
+    const names = Object.keys(classification.postsByClassificationNames)
 
     createPage({
                  path: _.kebabCase(`/${classification.pluralName}`),
@@ -66,10 +65,10 @@ const createClassificationPages = ({ createPage, posts, postsPerPage, numPages }
                  context: {
                    [`${classification.pluralName}`]: names.sort(),
                  },
-               });
+               })
 
     names.forEach(name => {
-      const postsByName = classification.postsByClassificationNames[name];
+      const postsByName = classification.postsByClassificationNames[name]
       createPage({
                    path: `/${classification.pluralName}/${_.kebabCase(name)}`,
                    component: classification.template.part,
@@ -77,23 +76,23 @@ const createClassificationPages = ({ createPage, posts, postsPerPage, numPages }
                      posts: postsByName,
                      [`${classification.singularName}Name`]: name,
                    },
-                 });
-    });
-  });
-};
+                 })
+    })
+  })
+}
 
 exports.onCreateWebpackConfig = ({ stage, actions }) => {
   actions.setWebpackConfig({
                              resolve: {
                                modules: [path.resolve(__dirname, 'src'), 'node_modules'],
                              },
-                           });
-};
+                           })
+}
 
 exports.createPages = ({ actions, graphql }) => {
-  const { createPage } = actions;
+  const { createPage } = actions
 
-  const postTemplate = path.resolve(`src/templates/Post.tsx`);
+  const postTemplate = path.resolve(`src/templates/Post.tsx`)
 
   return graphql(`{
     allMarkdownRemark(
@@ -122,12 +121,12 @@ exports.createPages = ({ actions, graphql }) => {
   }`)
   .then(result => {
     if (result.errors) {
-      return Promise.reject(result.errors);
+      return Promise.reject(result.errors)
     }
-    const posts = result.data.allMarkdownRemark.edges;
-    console.log(posts.length);
-    const postsPerPage = config.POST_PER_PAGE;
-    const numPages = Math.ceil(posts.length / postsPerPage);
+    const posts = result.data.allMarkdownRemark.edges
+    console.log(posts.length)
+    const postsPerPage = config.POST_PER_PAGE
+    const numPages = Math.ceil(posts.length / postsPerPage)
 
     Array.from({ length: numPages })
          .forEach((_, i) => {
@@ -140,14 +139,14 @@ exports.createPages = ({ actions, graphql }) => {
                           totalPages: numPages,
                           currentPage: i + 1
                         },
-                      });
-         });
+                      })
+         })
 
-    createClassificationPages({ createPage, posts, postsPerPage, numPages });
+    createClassificationPages({ createPage, posts, postsPerPage, numPages })
 
     posts.forEach(({ node }, index) => {
-      const next = index === 0 ? null : posts[index - 1].node;
-      const prev = index === posts.length - 1 ? null : posts[index + 1].node;
+      const next = index === 0 ? null : posts[index - 1].node
+      const prev = index === posts.length - 1 ? null : posts[index + 1].node
 
       createPage({
                    path: `/blog/${_.kebabCase(node.frontmatter.title)}`,
@@ -157,7 +156,7 @@ exports.createPages = ({ actions, graphql }) => {
                      prev,
                      next,
                    },
-                 });
-    });
-  });
-};
+                 })
+    })
+  })
+}
