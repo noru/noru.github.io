@@ -1,6 +1,6 @@
 ---
 date: '2019-06-17'
-title: '[堆积-1]田宫F-16C/J 1:72'
+title: '[堆积-1]田宫F-16CJ 1:72 (No.60788)'
 category: 'ScaleModel'
 tags: ['飞机', '现代', '美', '1:72']
 banner: '/assets/image/f16c/front.jpg'

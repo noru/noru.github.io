@@ -9,7 +9,7 @@
   "license": "MIT",
   "scripts": {
     "build": "gatsby build",
-    "start": "gatsby develop",
+    "start": "gatsby develop -o",
     "dev": "npm start",
     "deploy": "gatsby build && gh-pages -d public -b master",
     "lint": "tslint --project .",
