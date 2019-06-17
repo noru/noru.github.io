@@ -8,6 +8,7 @@ import config from '../../config/SiteConfig'
 import '../utils/prismjs-theme.css'
 import PathContext from '../models/PathContext'
 import Post from '../models/Post'
+import { ImageViewer } from './ImageViewer'
 
 const PostContent = styled.div`
   margin-top: 4rem;
@@ -15,16 +16,36 @@ const PostContent = styled.div`
 
 interface Props {
   data: {
-    markdownRemark: Post;
+    markdownRemark: Post,
   }
   pathContext: PathContext
 }
 
 export default class PostPage extends React.PureComponent<Props> {
+  contentRef: HTMLElement | null = null
+
+  state = {
+    imgSrc: undefined,
+  }
+  componentDidMount() {
+    if (this.contentRef) {
+      let imgs = this.contentRef!.getElementsByTagName('img') || []
+      // tslint:disable-next-line:prefer-for-of
+      for (let i = 0; i < imgs.length; i++) {
+        let img = imgs[i]
+        img.onclick = () => this.setState({ imgSrc: img.src })
+        img.width = 400
+        img.style.cursor = 'pointer'
+        img.style.display = 'block'
+        img.style.margin = 'auto'
+      }
+    }
+  }
 
   render() {
     const { prev, next } = this.props.pathContext
     const post = this.props.data.markdownRemark
+    let { imgSrc } = this.state
     return (
       <Layout>
         {post ? (
@@ -41,7 +62,8 @@ export default class PostPage extends React.PureComponent<Props> {
             </Header>
             <Wrapper>
               <Content>
-                <PostContent dangerouslySetInnerHTML={{ __html: post.html }} />
+                <PostContent dangerouslySetInnerHTML={{ __html: post.html }} ref={ref => (this.contentRef = ref)} />
+                <ImageViewer src={imgSrc} onClose={() => this.setState({ imgSrc: undefined })} />
                 {post.frontmatter.tags ? (
                   <Subline>
                     Tags: &#160;
