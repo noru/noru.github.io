@@ -5,10 +5,22 @@ import Helmet from 'react-helmet'
 import config from '../../config/SiteConfig'
 import { Link } from 'gatsby'
 
-const FlexWrapper = styled.div`
-  display: flex;
-  flex-flow: wrap;
-  justify-content: space-around;
+const GridWrapper = styled.div`
+  display: grid;
+  grid-template-columns: auto auto auto;
+  grid-column-gap: 12px;
+  grid-row-gap: 48px;
+  padding: 24px 0 48px;
+  align-items: center;
+
+  @media (max-width: 1750px) {
+    flex-direction: column;
+    grid-template-columns: auto auto;
+  }
+  @media (max-width: 1080px) {
+    flex-direction: column;
+    grid-template-columns: auto;
+  }
 `
 
 export default class NotFoundPage extends React.Component<any> {
@@ -21,7 +33,7 @@ export default class NotFoundPage extends React.Component<any> {
             <Link to="/">Things I've been working on</Link>
           </Header>
           <Content>
-            <FlexWrapper>
+            <GridWrapper>
               <DemoWrapper src="/assets/demo/apm-dashboard/index.html" width={450}/>
               <DemoWrapper src="/assets/demo/apm-dashboard/index.html#/dashboard2" width={450}/>
               <DemoWrapper src="/assets/demo/apm-dashboard/index.html#/demo2" width={450}/>
@@ -29,7 +41,7 @@ export default class NotFoundPage extends React.Component<any> {
               <DemoWrapper src="/assets/demo/dew/index.html#/FailureAnalysis" width={450}/>
               <DemoWrapper src="/assets/demo/dew/index.html#/ProcessAnalysis" width={450}/>
               <DemoWrapper isImage src="/assets/demo/appstore.png" link="https://apps.autodesk.com" width={450}/>
-            </FlexWrapper>
+            </GridWrapper>
           </Content>
         </Wrapper>
       </Layout>
