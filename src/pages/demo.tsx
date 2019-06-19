@@ -4,6 +4,7 @@ import styled from 'styled-components'
 import Helmet from 'react-helmet'
 import config from '../../config/SiteConfig'
 import { Link } from 'gatsby'
+import useMedia from 'react-use/esm/useMedia'
 
 const GridWrapper = styled.div`
   display: grid;
@@ -22,29 +23,38 @@ const GridWrapper = styled.div`
     grid-template-columns: auto;
   }
 `
+const Title = styled.h4`
+  text-align: center;
+  margin-bottom: 0;
+  padding: 2em 0 1em;
+`
 
-export default class NotFoundPage extends React.Component<any> {
-  render() {
-    return (
-      <Layout>
-        <Wrapper>
-          <Helmet title={`Demo Lounge | ${config.siteTitle}`} />
-          <Header>
-            <Link to="/">Things I've been working on</Link>
-          </Header>
-          <Content>
-            <GridWrapper>
-              <DemoWrapper src="//blog.xiuz.hu/apm-dashboard" width={450} />
-              <DemoWrapper src="//blog.xiuz.hu/apm-dashboard#/dashboard2" width={450} />
-              <DemoWrapper src="//blog.xiuz.hu/apm-dashboard#/demo2" width={450} />
-              <DemoWrapper src="//blog.xiuz.hu/ct-monitor" width={450} />
-              <DemoWrapper src="//blog.xiuz.hu/dew-report#/FailureAnalysis" width={450} />
-              <DemoWrapper src="//blog.xiuz.hu/dew-report#/ProcessAnalysis" width={450} />
-              <DemoWrapper isImage src="/assets/demo/appstore.png" link="https://apps.autodesk.com" width={450} />
-            </GridWrapper>
-          </Content>
-        </Wrapper>
-      </Layout>
-    )
-  }
+export default function DemoPage() {
+
+  const isPhone = useMedia('(max-width:480px)')
+
+  let width = isPhone ? 280 : 450
+
+  return (
+    <Layout>
+      <Wrapper>
+        <Helmet title={`Demo Lounge | ${config.siteTitle}`} />
+        <Header>
+          <Link to="/">Drew's Workbench</Link>
+        </Header>
+        <Content>
+          <Title style={{ textAlign: 'center' }}>Things I've been working on</Title>
+          <GridWrapper>
+            <DemoWrapper src="//blog.xiuz.hu/apm-dashboard" width={width} />
+            <DemoWrapper src="//blog.xiuz.hu/apm-dashboard#/dashboard2" width={width} />
+            <DemoWrapper src="//blog.xiuz.hu/apm-dashboard#/demo2" width={width} />
+            <DemoWrapper src="//blog.xiuz.hu/ct-monitor" width={width} />
+            <DemoWrapper src="//blog.xiuz.hu/dew-report#/FailureAnalysis" width={width} />
+            <DemoWrapper src="//blog.xiuz.hu/dew-report#/ProcessAnalysis" width={width} />
+            <DemoWrapper isImage src="/assets/demo/appstore.png" link="https://apps.autodesk.com" width={width} />
+          </GridWrapper>
+        </Content>
+      </Wrapper>
+    </Layout>
+  )
 }
