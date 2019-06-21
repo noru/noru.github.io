@@ -35,7 +35,6 @@ module.exports = {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
         trackingId: config.GA_ID,
-        head: false,
         sampleRate: 5,
         siteSpeedSampleRate: 10,
         cookieDomain: '*.xiuz.hu',
@@ -45,9 +44,6 @@ module.exports = {
       resolve: `gatsby-plugin-google-tagmanager`,
       options: {
         id: config.Google_Tag_Manager_ID,
-        // Include GTM in development.
-        // Defaults to false meaning GTM will only be loaded in production.
-        includeInDevelopment: false,
       },
     },
     {
@@ -85,5 +81,5 @@ module.exports = {
         icon: config.favicon,
       },
     },
-  ]
+  ],
 }

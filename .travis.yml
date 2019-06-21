@@ -1,0 +1,19 @@
+language: node_js
+node_js:
+- '8'
+dist: trusty
+sudo: false
+cache: npm
+git:
+  quiet: true
+deploy:
+  provider: pages
+  skip_cleanup: true
+  github_token: "$GH_TOKEN"
+  keep_history: true
+  local_dir: public
+  on:
+    branch: master
+env:
+  global:
+    secure: qS560nhNXnrvqgIGPSTElTKu1k2SsXuFPkWSSvpe6MfPq2Mm4VFayGx/oxiXvjHAJIDu2/aCm/Gh9uc9r6LNaiUdsstG767dMiL7xe4L8M+JSrldUzkrYN4dp/oCpQsE5+Z+eN2DbobL38vQpl1wusWYbQ5NprJC62ixZiL/PYCZ2FUSVfh1r3CZ6THhwi7pFdKp6fzWRXRtq8zgh/okctIsRDjBYJaq9sepE649NMg7G3KSIzLTSfsyr0vM7aYIc3xJeKmLj37xxuOeA4bIdVFS2w2QhKOQeeN4lNA4b6VNc9QM5HNDhRCHee+inOWzEKHKOGxezMm00aadBdWUXNTAXFbmflHGlZykdlpdHHGn7jkKT+QCP35mc+UDjeUzquGgCDDSniaaK0NQAuKbXKvISrpleAnxrzBbUWcueYmfh6cW4LGy2fn7amw+ZuNsq/aYatzjjCtfk1IB2n4EdQ5ehKzkNJbGtvWGY72boYn2LzcnmIiehwr9qqz4E3CUjwSpub7VSoRW/aplGHgCon1LePpSvaGoz7H5PGFv7/N4h4+kFr7nmMB01jGU4x2dQbuyhq8qpaRg9cVA+ILJgeYw8hfkITYrV6HPSMAOH0nCqK/11+TED2JaqzVIEIJ1lqshmfLUbLGogqcQdnpK/tsExh6Ehredi4SuKPjPFBc=
