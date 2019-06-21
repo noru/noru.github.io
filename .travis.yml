@@ -1,12 +1,19 @@
 language: node_js
 node_js:
   - '8'
+
+branches:
+  only:
+    - develop
+
 dist: trusty
 sudo: false
 cache: npm
 git:
   quiet: true
-
+before_install:
+  - git remote remove origin
+  - git remote add origin https://$GH_TOKEN@github.com/$TRAVIS_REPO_SLUG
 script:
   - npm run deploy
 env:
