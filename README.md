@@ -1,5 +1,7 @@
 My blog
 
+[![Build Status](https://travis-ci.org/noru/noru.github.io.svg?branch=develop)](https://travis-ci.org/noru/noru.github.io)
+
 URL:
 
 [blog.xiuz.hu](https://blog.xiuz.hu)
