@@ -2,7 +2,7 @@
 date: '2019-06-17'
 title: '[堆积-1]田宫F-16CJ 1:72 (No.60788)'
 category: 'ScaleModel'
-tags: ['飞机', '现代', '美', '1:72']
+tags: ['飞机', '现代', '美', '1:72', 'Tamiya']
 banner: '/assets/image/f16c/front.jpg'
 ---
 
@@ -45,14 +45,29 @@ banner: '/assets/image/f16c/front.jpg'
 ### 成品
 
 ![box](/assets/image/f16c/full.jpg)
+
 ![box](/assets/image/f16c/full2.jpg)
+
 ![box](/assets/image/f16c/head.jpg)
+
 ![box](/assets/image/f16c/rear.jpg)
+
+![box](/assets/image/f16c/front-side.jpg)
+
 ![box](/assets/image/f16c/front.jpg)
+
+![box](/assets/image/f16c/front2.jpg)
+
 ![box](/assets/image/f16c/top-front.jpg)
-![box](/assets/image/f16c/back.jpg)
+
+![box](/assets/image/f16c/top.jpg)
+
 ![box](/assets/image/f16c/weighed-wheels.jpg)
+
+![box](/assets/image/f16c/side.jpg)
+
 ![box](/assets/image/f16c/bottom.jpg)
+
 ![box](/assets/image/f16c/bottom2.jpg)
 
 ### 堆积-1...... +13 = 14
