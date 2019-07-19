@@ -33,6 +33,10 @@ export default class PostPage extends React.PureComponent<Props> {
       // tslint:disable-next-line:prefer-for-of
       for (let i = 0; i < imgs.length; i++) {
         let img = imgs[i]
+        let hash = img.src.split('#')[1]
+        if (hash && hash.includes('nopreview')) {
+          continue
+        }
         img.onclick = () => this.setState({ imgSrc: img.src })
         img.width = 400
         img.style.cursor = 'pointer'
