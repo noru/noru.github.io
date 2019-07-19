@@ -3,6 +3,7 @@
 <url> <loc>https://blog.xiuz.hu/blog</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.xiuz.hu/blog/2</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.xiuz.hu/blog/3</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://blog.xiuz.hu/blog/4</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.xiuz.hu/categories</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.xiuz.hu/categories/code</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.xiuz.hu/categories/scale-model</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -22,9 +23,11 @@
 <url> <loc>https://blog.xiuz.hu/tags/canvas</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.xiuz.hu/tags/css</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.xiuz.hu/tags/docker</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://blog.xiuz.hu/tags/game</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.xiuz.hu/tags/history-api</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.xiuz.hu/tags/iframe</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.xiuz.hu/tags/image-segmentation</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://blog.xiuz.hu/tags/js</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.xiuz.hu/tags/mask</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.xiuz.hu/tags/pubg</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.xiuz.hu/tags/stackoverflow</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -46,6 +49,7 @@
 <url> <loc>https://blog.xiuz.hu/tags/金属</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.xiuz.hu/tags/零</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.xiuz.hu/tags/飞机</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://blog.xiuz.hu/blog/3-消游戏简易web实现</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.xiuz.hu/blog/meng模型p-51-d-k-plaaf开国大典-1-48-ls-005</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.xiuz.hu/blog/堆积-1-田宫f-16-cj-1-72-no-60788</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.xiuz.hu/blog/google的无限手套特效</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
