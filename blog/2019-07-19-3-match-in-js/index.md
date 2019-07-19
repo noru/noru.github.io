@@ -8,7 +8,7 @@ banner: '/assets/image/infinity-gauntlet-effect/banner.jpg'
 
 **Talk is cheap, show me the** [![GitHub](https://img.shields.io/github/forks/noru/3-match.svg?label=Souce%20Code&style=social)](https://github.com/noru/3-match)
 
-<iframe src="https://blog.xiuz.hu/3-match/dist/index.html" width="100%" height="500" style="max-width:600px;margin-left:50%;transform:translateX(-50%);"></iframe>
+<iframe src="https://blog.xiuz.hu/3-match/dist/index.html" width="100%" height="500" style="max-width:600px;margin-left:50%;transform:translateX(-50%);overflow:hidden;"></iframe>
 
 想尝试这个玩意很久了. 早先听一个[独立游戏开发者讲自己心路历程](https://www.youtube.com/watch?v=JmwbYl6f11c), 提到了自己一直维护的消除类游戏并赚点小钱的故事. 就像一道上好的面试题一样, 切入起来很简单, `follow up`要多少有多少要多深有多深.
 
