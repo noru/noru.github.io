@@ -3,7 +3,7 @@ date: '2019-07-19'
 title: '3消游戏简易web实现'
 category: 'Code'
 tags: ['game', 'animation', 'web', 'js']
-banner: '/assets/image/infinity-gauntlet-effect/banner.jpg'
+banner: '/assets/image/3-match.png'
 ---
 
 **Talk is cheap, show me the** [![GitHub](https://img.shields.io/github/forks/noru/3-match.svg?label=Souce%20Code&style=social#nopreview)](https://github.com/noru/3-match)
@@ -12,7 +12,7 @@ banner: '/assets/image/infinity-gauntlet-effect/banner.jpg'
 
 想尝试这个玩意很久了. 早先听一个[独立游戏开发者讲自己心路历程](https://www.youtube.com/watch?v=JmwbYl6f11c), 提到了自己一直维护的消除类游戏并赚点小钱的故事. 就像一道上好的面试题一样, 切入起来很简单, `follow up`要多少有多少要多深有多深.
 
-整个实现过程也没什么好说的, 都是可以预见情况. 设计和实现并无什么优劣之分, 毕竟只是最小实现, 500 行左右的代码. 倒是锻炼了在没有蓝图没有依赖库的情况下, 从头到尾自己`follow through`的意志力, 无他了.
+整个实现过程也没什么好说的, 都是可以预见情况. 设计和实现并无什么优劣之分, 毕竟只是最小实现, 500 行左右的代码. 无非是锻炼了在没有蓝图没有依赖库的情况下, 从头到尾自己`follow through`的意志力. 因为并不是想要实现一个完整可玩的游戏, 所以很多锦上添花的东西, 如计分系统之类, 均不予考虑.
 
 几个早就知道的...
 
