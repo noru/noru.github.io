@@ -16,11 +16,12 @@ banner: '/assets/image/f14d-gwh/box.jpg'
 
 ### 板件总览
 
-东西真多, 东西最多的一个套间. 细节不错. 甚至还给了重力胎. 不过没看到蚀刻片, 引擎喷口内部细节挺一般的, 估计是给配件厂留点空间.
+东西真多, 东西最多的一个套间. 细节不错. 蛋蛋很多, 甚至还给了重力胎. 不过没看到蚀刻片, 引擎喷口内部细节挺一般的, 估计是给配件厂留点空间.
 
 ![overview](/assets/image/f14d-gwh/overview.jpg)
 ![details](/assets/image/f14d-gwh/details.jpg)
 ![wheels](/assets/image/f14d-gwh/wheels.jpg)
+![missiles](/assets/image/f14d-gwh/missiles.jpg)
 
 ### 说明书
 
