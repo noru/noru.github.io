@@ -1,6 +1,6 @@
 ---
 date: '2019-07-18'
-title: 'MENG模型P-51D/K(PLAAF开国大典)1:48 (LS-005)'
+title: 'MENG模型P-51D/K中国空军开国大典涂装1:48 (LS-005)'
 category: 'ScaleModel'
 tags: ['飞机', '现代', '美', '中', '1:48', 'Meng']
 banner: '/assets/image/p51k/5.jpg'
