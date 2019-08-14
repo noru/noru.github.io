@@ -98,6 +98,7 @@ exports.createPages = ({ actions, graphql }) => {
     allMarkdownRemark(
       sort: { order: DESC, fields: [frontmatter___date] }
       limit: 10000
+      filter: {frontmatter: {category: {ne: "resume"}}}
     ) {
       edges {
         node {
@@ -124,7 +125,7 @@ exports.createPages = ({ actions, graphql }) => {
       return Promise.reject(result.errors)
     }
     const posts = result.data.allMarkdownRemark.edges
-    console.log(posts.length)
+    console.log('Total posts: ' + posts.length)
     const postsPerPage = config.POST_PER_PAGE
     const numPages = Math.ceil(posts.length / postsPerPage)
 

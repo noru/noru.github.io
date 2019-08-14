@@ -49,7 +49,13 @@ export default class BlogPage extends React.Component<Props> {
 }
 export const BlogQuery = graphql`
   query($skip: Int!, $limit: Int!) {
-    allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }, limit: $limit, skip: $skip) {
+    allMarkdownRemark(
+      sort: { fields: [frontmatter___date],
+      order: DESC },
+      limit: $limit,
+      skip: $skip,
+      filter: {frontmatter: {category: {ne: "resume"}}}
+    ) {
       totalCount
       edges {
         node {
