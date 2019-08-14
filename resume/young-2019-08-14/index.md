@@ -46,7 +46,7 @@ Expirencing various changes in a relatively short time at a fast growing Start-u
  - Interviewing front-end engineer for both Shanghai/Beijing team.
  - Tech stack: __typescript/react + react-*/antd/echarts__
 
-#### Autodesk China R&D - Cloud Platform (2017-4 ~ 2018-12)
+#### Autodesk China R&D - Cloud Platform (2014-8 ~ 2017-4)
 
  - Working on a RESTful API for Autodesk Revit/Fusion to manage/render materials. Based on asp.net. Built a browser based admin console, using Vuejs.
 
