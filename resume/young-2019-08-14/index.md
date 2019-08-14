@@ -28,7 +28,7 @@ OOP, FP, JavaScript/TypeScript stack, React stack, Scala, C#, Android/Java, AWS,
 
 ## WORTH-SAYINGS
 
-Android native apps, Node.js, CICD pipeline(Jenkins, Docker) experience. [Predix Certified Developer](/assets/docs/predix_cert.png) & [Alibaba Cloud Certified Associate](/assets/docs/cert_aliyun.png)123
+Android native apps, Node.js, CICD pipeline(Jenkins, Docker) experience. [Predix Certified Developer](/assets/docs/predix_cert.png) & [Alibaba Cloud Certified Associate](/assets/docs/cert_aliyun.png)
 
 ## Experiences
 
