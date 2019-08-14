@@ -1,4 +1,4 @@
 User-agent: *
-Disallow:
+Disallow:/resume/
 
 sitemap: https://power-blog-typescirpt.github.com/sitemap.xml
