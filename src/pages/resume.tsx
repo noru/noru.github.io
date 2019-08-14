@@ -51,7 +51,7 @@ export default class ResumePage extends React.PureComponent<Props> {
     const resume = allMarkdownRemark.edges.filter(e => e.node.frontmatter.tags.includes(t))[0]
 
     if (!resume) {
-      window.location = '/'
+      typeof window !== 'undefined' && (window.location.href = '/')
       return null
     }
 
