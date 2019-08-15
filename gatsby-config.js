@@ -39,12 +39,18 @@ module.exports = {
       },
     },
     {
-      resolve: `gatsby-plugin-google-analytics`,
+      resolve: `gatsby-plugin-google-gtag`,
       options: {
-        trackingId: config.GA_ID,
-        sampleRate: 5,
-        siteSpeedSampleRate: 10,
-        cookieDomain: '*.xiuz.hu',
+        trackingIds: [
+          config.GA_ID
+        ],
+        // This object gets passed directly to the gtag config command
+        // This config will be shared across all trackingIds
+        gtagConfig: {
+          optimize_id: 'GTM-TLGS83S',
+          anonymize_ip: true,
+          cookie_expires: 0,
+        },
       },
     },
     {
