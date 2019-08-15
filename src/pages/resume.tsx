@@ -50,6 +50,7 @@ export default class ResumePage extends React.PureComponent<Props> {
     let { t } = parseQuery(search)
     const resume = allMarkdownRemark.edges.filter(e => e.node.frontmatter.tags.includes(t))[0]
 
+    typeof window !== 'undefined' && window.gtag('resume', 'view', { t })
     if (!resume) {
       typeof window !== 'undefined' && (window.location.href = '/')
       return null
