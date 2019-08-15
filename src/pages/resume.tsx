@@ -6,6 +6,7 @@ import '../utils/prismjs-theme.css'
 import PathContext from '../models/PathContext'
 import Post from '../models/Post'
 import { parseQuery } from '@drewxiu/utils'
+import Helmet from 'react-helmet'
 
 const Corner = styled.div`
   padding: 12px 0 0 2em;
@@ -50,7 +51,7 @@ export default class ResumePage extends React.PureComponent<Props> {
     let { t } = parseQuery(search)
     const resume = allMarkdownRemark.edges.filter(e => e.node.frontmatter.tags.includes(t))[0]
 
-    typeof window !== 'undefined' && window.gtag('resume', 'view', { t })
+    typeof window !== 'undefined' && window.gtag && window.gtag('resume', 'view', { t })
     if (!resume) {
       typeof window !== 'undefined' && (window.location.href = '/')
       return null
@@ -58,6 +59,7 @@ export default class ResumePage extends React.PureComponent<Props> {
 
     return (
       <Layout>
+        <Helmet title={`CV | Drew.Xiu | Developer`} />
         <GHRibbon href="https://github.com/noru" />
         <Corner>
           <Link to="/">👈 Back to my blog</Link>
