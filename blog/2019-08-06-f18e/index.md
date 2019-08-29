@@ -3,7 +3,7 @@ date: '2019-08-06'
 title: '堆积=0! | 田宫(Italeri)F-18E 1:72自定义涂装'
 category: 'ScaleModel'
 tags: ['飞机', '美', '1:72', '现代']
-banner: '/assets/image/f14d-gwh/box.jpg'
+banner: '/assets/image/f18e/2.jpg'
 ---
 
 ## 堆积 = 0!!!
