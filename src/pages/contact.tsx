@@ -8,8 +8,12 @@ import config from '../../config/SiteConfig'
 import PageProps from '../models/PageProps'
 
 const Links = styled.div`
-  padding: 1em;
+  padding: 2em 1em;
   text-align: center;
+  > a {
+    display: inline-block;
+    margin-bottom: 1.5em;
+  }
 `
 
 export default class ContactPage extends React.Component<PageProps> {
