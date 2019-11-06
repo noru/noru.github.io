@@ -11,3 +11,7 @@ strong {
 iframe {
   border: none;
 }
+
+pre[class*='language-'] {
+  margin-bottom: 2em !important;
+}
