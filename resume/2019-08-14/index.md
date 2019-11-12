@@ -2,7 +2,7 @@
 date: '2019-08-15'
 title: 'Resume for Young'
 category: 'resume'
-tags: ['drew.xiu']
+tags: ['drew.xiu', 'rakuten']
 banner: ''
 ---
 
@@ -38,7 +38,7 @@ Android native apps, Node.js, CICD pipeline(Jenkins, Docker) experience. [Predix
 
 #### [Airwallex](https://www.airwallex.com) (2019-1 ~ current)
 
-Expirencing various changes in a relatively short time at a fast growing Start-up. Not too much to mention. One tiny [Example](https://channel.airwallex.com/m) (**Warning**: if you input your phone there, our sales guy will call you. If you insist, don't mention my name for obivous reason 😀)
+Expirencing various changes in a relatively short time at a fast growing Start-up. One tiny landing page [Example](https://channel.airwallex.com/m). Currently working on the company's first Wechat Miniprogram (a hybrid app framework runing on WeChat)
 
 #### General Electric (2017-4 ~ 2018-12)
 
