@@ -1,5 +1,5 @@
 ---
-date: '2019-11-06'
+date: '2019-11-07T10:00Z'
 title: 'CSS省略号样式Loading'
 category: 'Code'
 tags: ['css', 'animation', '小事儿']
