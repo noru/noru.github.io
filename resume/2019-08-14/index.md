@@ -16,8 +16,8 @@ console.log('Hello recruiter!')
 
 > 7 years programming experience in a wide range of technical stacks.
 > Strong learning ability and willingness.
-> Team player and effcient communicator, always took a role as key developer in team.
-> Tech nerd and enthusiastic about effciency and quality.
+> Team player and efficient communicator, always took a role as key developer in team.
+> Tech nerd and enthusiastic about efficiency and quality.
 > Full stack web developer since beginning, and now an experienced front-end engineer.
 > Looking forward to sharpen my skills and acquire new ones.
 
@@ -38,7 +38,7 @@ Android native apps, Node.js, CICD pipeline(Jenkins, Docker) experience. [Predix
 
 #### [Airwallex](https://www.airwallex.com) (2019-1 ~ current)
 
-Expirencing various changes in a relatively short time at a fast growing Start-up. One tiny landing page [Example](https://channel.airwallex.com/m). Currently working on the company's first Wechat Miniprogram (a hybrid app framework runing on WeChat)
+Experiencing various changes in a relatively short time at a fast growing Start-up. One tiny landing page [Example](https://channel.airwallex.com/m). Currently working on the company's first Wechat Miniprogram (a hybrid app framework running on WeChat)
 
 #### General Electric (2017-4 ~ 2018-12)
 
