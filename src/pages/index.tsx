@@ -150,7 +150,10 @@ export const IndexQuery = graphql`
     allMarkdownRemark(
       sort: { fields: [frontmatter___date], order: DESC }
       limit: 5
-      filter: { frontmatter: { category: { ne: "resume" } } }
+      filter: {
+        frontmatter: { category: { ne: "resume" } }
+        fields: { draft: { eq: false } }
+      }
     ) {
       totalCount
       edges {

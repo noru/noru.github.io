@@ -54,7 +54,10 @@ export const BlogQuery = graphql`
       order: DESC },
       limit: $limit,
       skip: $skip,
-      filter: {frontmatter: {category: {ne: "resume"}}}
+      filter: {
+        frontmatter: {category: {ne: "resume"}}
+        fields: { draft: { eq: false } }
+      }
     ) {
       totalCount
       edges {
