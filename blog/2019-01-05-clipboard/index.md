@@ -2,7 +2,7 @@
 date: '2019-01-05'
 title: '自用剪贴板小工具(https://xiuz.hu/clipboard)'
 category: 'Code'
-tags: ['复制黏贴', ‘share’, 'web', 'docker']
+tags: ['复制黏贴', 'share', 'web', 'docker']
 banner: '/assets/image/drews_clipboard.jpg'
 ---
 
@@ -29,11 +29,11 @@ https://xiuz.hu/clipboard
 
 ### Takeaway
 
-Koa令人惊奇的简单（至少对于我这个小功能），docker的配置也没花多大时间，页面更是随便写写。最麻烦的竟然在于实现PWA的要求（主要是创建手机上主屏幕入口）。Icon的规格必须要全, 192px和512px的都得有，service work也要正确配置才能够让浏览器跳出“添加到主屏幕”的提示。 还有其他要求，参照[Checklist](https://www.npmjs.com/package/lighthouse)或者使用[lighthouse](https://www.npmjs.com/package/lighthouse)工具做下检查 ，照着改就行了。
+Koa令人惊奇的简单（至少对于我这个小功能），docker的配置也没花多大时间，页面更是随便写写。最麻烦的竟然在于实现PWA的要求（主要是创建手机上主屏幕入口）。Icon的规格必须要全, 192px和512px的都得有，service work也要正确配置才能够让浏览器跳出“添加到主屏幕”的提示。还有其他要求，参照[Checklist](https://www.npmjs.com/package/lighthouse)或者使用[lighthouse](https://www.npmjs.com/package/lighthouse)工具做下检查，照着改就行了。
 
 ### TODO
 
 - ~~websocket链接恢复，等鲁棒性改善~~ Done
 - ~~支持文件~~ （https://xiuz.hu/clipboard）
 - README
-- server代码用travis构建，上传 github，容器直接拿包不拿源码(应该这样吗？)
+- server代码用travis构建，上传 github，容器直接拿包不拿源码(应该这样吗？)
