@@ -6,6 +6,37 @@ tags: ['drew.xiu', 'rakuten']
 banner: ''
 ---
 
+<!-- <div id="print-to-pdf">Print to PDF</div>
+
+<script data-inline-script="data-inline-script">
+  var downloadPDF = document.getElementById('print-to-pdf')
+  var dialog = null
+  downloadPDF.addEventListener('click', function() {
+    if (!dialog) {
+      dialog = document.createElement('div')
+      dialog.style = "position:fixed;left:0;top:0;right:0;bottom:0;z-index:999999;background:rgba(0,0,0,0.6);"
+      var content = document.createElement('div')
+      content.style = "position:absolute;width:600px;margin:auto;top:20%;left:0;right:0;padding: 2rem;text-align:center;border-radius:.5rem;background:#494f5c;"
+      var img = document.createElement('img')
+      img.src = '/assets/resume/print-cfg.png'
+      var printBtn = document.createElement('button')
+      printBtn.innerHTML = '<span class="fa fa-hand-o-up"></span><span>Click Here</span>'
+      printBtn.style = 'padding:.5em 1.5em;border-radius:861112px;border:none;font-size:1.5rem;background:#98c0e4;margin-bottom:1em;color:white;'
+      printBtn.addEventListener('click', function() {
+        dialog.remove()
+        window.print()
+      })
+      var text = document.createElement('h3')
+      text.innerText = 'and one more step...'
+      content.appendChild(printBtn)
+      content.append(text)
+      content.appendChild(img)
+      dialog.appendChild(content)
+    }
+    document.body.append(dialog)
+  })
+</script> -->
+
 > Before sending me any code assignments, please visit [Here](https://blog.xiuz.hu/categories/code), [Here](https://blog.xiuz.hu/demo) and [Here](https://github.com/noru) for live demos and source code.
 
 ```javascript
@@ -32,7 +63,8 @@ OOP, FP, JavaScript/TypeScript stack, React stack, Scala, C#, Android/Java, AWS,
 
 ## Worth-Sayings
 
-Android native apps, Node.js, CICD pipeline(Jenkins, Docker) experience. [Predix Certified Developer](/assets/docs/predix_cert.png) & [Alibaba Cloud Certified Associate](/assets/docs/cert_aliyun.png)
+- [Predix Certified Developer](/assets/docs/predix_cert.png) & [Alibaba Cloud Certified Associate](/assets/docs/cert_aliyun.png)
+- Android native apps, Backend(Scala/Java, .Net, Node.js), CICD pipeline(Jenkins, Docker) experience.
 
 ## Experiences
 
