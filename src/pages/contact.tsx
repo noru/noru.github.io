@@ -1,11 +1,11 @@
 import React from 'react'
 import Helmet from 'react-helmet'
 import FA from 'react-fontawesome'
-import { Link } from 'gatsby'
 import { Layout, Wrapper, Header, Button, Content, SectionTitle } from '../components'
 import styled from 'styled-components'
 import config from '../../config/SiteConfig'
 import PageProps from '../models/PageProps'
+import { Link } from '../components/Link'
 
 const Links = styled.div`
   padding: 2em 1em;

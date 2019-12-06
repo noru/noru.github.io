@@ -1,5 +1,5 @@
 import React from 'react'
-import { Link, graphql } from 'gatsby'
+import { graphql } from 'gatsby'
 import styled from 'styled-components'
 import { Layout, GHRibbon } from '../components'
 import '../utils/prismjs-theme.css'
@@ -7,6 +7,7 @@ import PathContext from '../models/PathContext'
 import Post from '../models/Post'
 import { parseQuery } from '@drewxiu/utils'
 import Helmet from 'react-helmet'
+import { Link } from '../components/Link'
 
 const Wrapper = styled.div`
   max-width: 1052px;

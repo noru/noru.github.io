@@ -1,9 +1,9 @@
 import React from 'react'
-import { Link } from 'gatsby'
 import styled from 'styled-components'
 import { media } from '../utils/media'
 import theme from '../../config/Theme'
 import curriedDarken from 'polished/lib/color/darken'
+import { Link } from './Link'
 
 export const PaginationContainer = styled.div`
   text-align: center;

@@ -1,9 +1,9 @@
 import React from 'react'
 import styled from 'styled-components'
-import { Link } from 'gatsby'
 import kebabCase from 'lodash/kebabCase'
 import { Subline } from './Subline'
 import { media } from '../utils/media'
+import { Link } from './Link'
 
 const Post = styled.article`
   display: flex;

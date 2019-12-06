@@ -3,8 +3,8 @@ import { Content, Header, Layout, Wrapper, DemoWrapper } from '../components'
 import styled from 'styled-components'
 import Helmet from 'react-helmet'
 import config from '../../config/SiteConfig'
-import { Link } from 'gatsby'
 import useMedia from 'react-use/esm/useMedia'
+import { Link } from '../components/Link'
 
 const GridWrapper = styled.div`
   display: grid;

@@ -1,5 +1,5 @@
 import React from 'react'
-import { Link, graphql } from 'gatsby'
+import { graphql } from 'gatsby'
 import styled from 'styled-components'
 import { Layout, Wrapper, Button as Btn, Article } from '../components'
 import FA from 'react-fontawesome'
@@ -10,6 +10,7 @@ import { media } from '../utils/media'
 import rgba from 'polished/lib/color/rgba'
 import darken from 'polished/lib/color/darken'
 import lighten from 'polished/lib/color/lighten'
+import { Link } from '../components/Link'
 
 const Button = styled(Btn)`
   padding: 0.5em 1em;
