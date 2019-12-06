@@ -142,6 +142,20 @@ export default class ResumePage extends React.PureComponent<Props> {
             >
               <h1><i className="fa fa-file-word-o"/>DOC</h1>
             </Download>
+            { utm_source === 'me' && <Download onClick={() => {
+              let source = prompt('umt_source')
+              let medium = prompt('umt_medium')
+              let campaign = prompt('umt_campaign')
+              // tslint:disable-next-line:max-line-length
+              let url = `https://blog.xiuz.hu/resume/?utm_source=${source}&utm_medium=${medium}&utm_campaign=${campaign}`
+              setTimeout(() => {
+                document.body.focus()
+                navigator.clipboard.writeText(url).then(() => alert('Copied. \n' + url))
+              }, 50)
+            }
+            }
+            ><h1><i className="fa fa-share-alt-square"/>Share</h1>
+            </Download>}
             { showModal && <Modal>
               <div>
                 <a onClick={() => { this.setState({showModal: false }, () => window.print())}}>
