@@ -114,7 +114,7 @@ export class Layout extends React.PureComponent<{}> {
                   &copy; {split(data.site.buildTime, '.')[2]} by Drew Xiu. All rights <s>reserved</s> for sale.
                 </span>
                 <br />
-                <a href="https://github.com/noru/blog">GitHub Repo</a> <br />
+                <a href="https://github.com/noru/noru.github.io">GitHub Repo</a> <br />
                 <span>Last build: {data.site.buildTime}</span>
               </Footer>
             </React.Fragment>
