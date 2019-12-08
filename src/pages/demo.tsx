@@ -45,6 +45,7 @@ export default function DemoPage() {
         <Content>
           <Title style={{ textAlign: 'center' }}>Things I've been working on</Title>
           <GridWrapper>
+            <DemoWrapper src="//blog.xiuz.hu/snake" width={width} />
             <DemoWrapper src="//blog.xiuz.hu/visual-effects" width={width} />
             <DemoWrapper src="//blog.xiuz.hu/3-match/dist/index.html" width={width} />
             <DemoWrapper src="//blog.xiuz.hu/apm-dashboard" width={width} />
