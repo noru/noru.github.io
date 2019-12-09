@@ -70,7 +70,17 @@ OOP, FP, JavaScript/TypeScript stack, React stack, Scala, C#, Android/Java, AWS,
 
 #### [Airwallex](https://www.airwallex.com) (2019-1 ~ current)
 
-Experiencing various changes in a relatively short time at a fast growing Start-up. One tiny landing page [Example](https://channel.airwallex.com/m). Currently working on the company's first Wechat Miniprogram (a hybrid app framework running on WeChat)
+Experiencing various changes in a relatively short time at a fast growing Start-up. Act as a sole contributor - following through one project from E2E - or leader of 1-2 junior engineers in collaboration. Currently working on the company's first Wechat Miniprogram (a hybrid app framework running on WeChat).
+
+Some projects I solely or primarily contributed to:
+
+- [Airwallex's Chinese Homepage](https://www.airwallex.com.cn)
+- [Payout Guides](https://www.airwallex.com/guides/payout)
+- [Several Landing Pages (Mobile & Desktop) ](https://channel.airwallex.com)
+- [Web-base KYC application for Mobile](https://www.airwallex.com/cn/kyc)
+- Airwallex's first Wechat MiniProgram (Name: Airwallex)
+
+Stacks: React, GraphQL, Typescript, SSR(Nextjs), Kotlin
 
 #### General Electric (2017-4 ~ 2018-12)
 

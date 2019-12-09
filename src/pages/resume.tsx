@@ -102,10 +102,11 @@ export default class ResumePage extends React.PureComponent<Props> {
 
   state = {
     showModal: false,
+    url: undefined,
   }
 
   render() {
-    let { showModal } = this.state
+    let { showModal, url } = this.state
     const {
       location: { search },
       data: { allMarkdownRemark },
@@ -147,15 +148,17 @@ export default class ResumePage extends React.PureComponent<Props> {
               let medium = prompt('umt_medium')
               let campaign = prompt('umt_campaign')
               // tslint:disable-next-line:max-line-length
-              let url = `https://blog.xiuz.hu/resume/?utm_source=${source}&utm_medium=${medium}&utm_campaign=${campaign}`
-              setTimeout(() => {
-                document.body.focus()
-                navigator.clipboard.writeText(url).then(() => alert('Copied. \n' + url))
-              }, 50)
+              let gen = `https://blog.xiuz.hu/resume/?utm_source=${source}&utm_medium=${medium}&utm_campaign=${campaign}`
+              this.setState({ url: gen })
             }
             }
             ><h1><i className="fa fa-share-alt-square"/>Share</h1>
             </Download>}
+            { url &&
+              <Download>
+                <h1 onClick={() => navigator.clipboard.writeText(url!).then(() => alert('Copied.'))}>{url}</h1>
+              </Download>
+            }
             { showModal && <Modal>
               <div>
                 <a onClick={() => { this.setState({showModal: false }, () => window.print())}}>
