@@ -1,8 +1,9 @@
 ---
 date: '2019-08-15'
-title: 'Resume for Young'
+title: 'Resume'
 category: 'resume'
-tags: ['drew.xiu', 'rakuten']
+tags: ['']
+lang: 'en'
 banner: ''
 ---
 
@@ -37,7 +38,7 @@ banner: ''
   })
 </script> -->
 
-> Before sending me any code assignments, please visit [Here](https://blog.xiuz.hu/categories/code), [Here](https://blog.xiuz.hu/demo) and [Here](https://github.com/noru) for live demos and source code.
+> Before sending me any code assignments, please visit [Heres](https://blog.xiuz.hu/categories/code), [Here](https://blog.xiuz.hu/demo) and [Here](https://github.com/noru) for live demos and source code.
 
 ```javascript
 console.log('Hello recruiter!')
@@ -45,26 +46,12 @@ console.log('Hello recruiter!')
 
 ## Overview
 
-> 7 years programming experience in a wide range of technical stacks.
+> 7+ years programming experience in a wide range of technical stacks.
 > Strong learning ability and willingness.
 > Team player and efficient communicator, always took a role as key developer in team.
 > Tech nerd and enthusiastic about efficiency and quality.
 > Full stack web developer since beginning, and now an experienced front-end engineer.
 > Looking forward to sharpen my skills and acquire new ones.
-
-## Education
-
-- 2005 ~ 2009, Northwestern Polytechnical University, Aerodynamic Engineering
-- 2009 ~ 2012, Fudan University, Aerodynamic Engineering
-
-## Skills
-
-OOP, FP, JavaScript/TypeScript stack, React stack, Scala, C#, Android/Java, AWS, Aliyun, REST, SQL, Non-SQL
-
-## Worth-Sayings
-
-- [Predix Certified Developer](/assets/docs/predix_cert.png) & [Alibaba Cloud Certified Associate](/assets/docs/cert_aliyun.png)
-- Android native apps, Backend(Scala/Java, .Net, Node.js), CICD pipeline(Jenkins, Docker) experience.
 
 ## Experiences
 
@@ -78,7 +65,7 @@ Some projects I solely or primarily contributed to:
 - [Payout Guides](https://www.airwallex.com/guides/payout)
 - [Several Landing Pages (Mobile & Desktop) ](https://channel.airwallex.com)
 - [Web-base KYC application for Mobile](https://www.airwallex.com/cn/kyc)
-- Airwallex's first Wechat MiniProgram (Name: Airwallex)
+- Airwallex's first Wechat MiniProgram (Name: Airwallex 跨境支付)
 
 Stacks: React, GraphQL, Typescript, SSR(Nextjs), Kotlin
 
@@ -104,3 +91,17 @@ Stacks: React, GraphQL, Typescript, SSR(Nextjs), Kotlin
 #### Autodesk China R&D - Localization Testing (2010~2012, Internship)
 
 - Conduct automation testing for Autodesk hero products, develop necessary tools, many of them are using Python. Best Intern Award of 2011.
+
+## Skills
+
+OOP, FP, JavaScript/TypeScript stack, React stack, Scala, C#, Android/Java, AWS, Aliyun, REST, SQL, Non-SQL
+
+## Worth-Sayings
+
+- [Predix Certified Developer](/assets/docs/predix_cert.png) & [Alibaba Cloud Certified Associate](/assets/docs/cert_aliyun.png)
+- Android native apps, Backend(Scala/Java, .Net, Node.js), CICD pipeline(Jenkins, Docker) experience.
+
+## Education
+
+- 2005 ~ 2009, Northwestern Polytechnical University, Aerodynamic Engineering
+- 2009 ~ 2012, Fudan University, Aerodynamic Engineering
