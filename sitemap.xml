@@ -10,6 +10,7 @@
 <url> <loc>https://blog.xiuz.hu/categories/code</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.xiuz.hu/categories/scale-model</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.xiuz.hu/categories/web开发</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://blog.xiuz.hu/categories/life</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.xiuz.hu/tags</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.xiuz.hu/tags/1-35</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.xiuz.hu/tags/1-48</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -48,6 +49,7 @@
 <url> <loc>https://blog.xiuz.hu/tags/小事儿</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.xiuz.hu/tags/小程序</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.xiuz.hu/tags/弹幕</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://blog.xiuz.hu/tags/日常</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.xiuz.hu/tags/现代</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.xiuz.hu/tags/直升机</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.xiuz.hu/tags/美</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -57,6 +59,7 @@
 <url> <loc>https://blog.xiuz.hu/tags/长城</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.xiuz.hu/tags/零</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.xiuz.hu/tags/飞机</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://blog.xiuz.hu/blog/2021-06-27</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.xiuz.hu/blog/2020-03-10</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.xiuz.hu/blog/2019-12-31</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.xiuz.hu/blog/2019-12-27</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
