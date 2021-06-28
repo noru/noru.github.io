@@ -9,7 +9,7 @@ import { Link } from '../components/Link'
 
 export default class AllCategoryTemplate extends React.PureComponent<PageProps> {
   render() {
-    const { categories } = this.props.pathContext
+    const { categories } = this.props.pageContext
     if (categories) {
       return (
         <Layout>

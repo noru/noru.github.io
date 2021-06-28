@@ -8,7 +8,7 @@ import { Link } from '../components/Link'
 
 export default class TagTemplate extends React.PureComponent<PageProps> {
   render() {
-    const { posts, tagName } = this.props.pathContext
+    const { posts, tagName } = this.props.pageContext
     const totalCount = posts ? posts.length : 0
     const subline = `${totalCount} post${totalCount === 1 ? '' : 's'} tagged with "${tagName}"`
 

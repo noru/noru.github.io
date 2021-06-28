@@ -6,7 +6,7 @@ interface PageProps {
   data: Data
   location: Location
   pageResources?: PageResources
-  pathContext: PathContext
+  pageContext: PathContext
 }
 
 export default PageProps

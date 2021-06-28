@@ -1,13 +1,13 @@
 export default {
   pathPrefix: '/',
   siteTitle: 'Drew\'s Workbench', // Navigation and Site Title
-  siteTitleAlt: '', // Alternative Site title for SEO
+  siteTitleAlt: 'Drew\'s Workbench', // Alternative Site title for SEO
   siteUrl: 'https://blog.xiuz.hu', // Domain of your site. No trailing slash!
   siteLanguage: 'en', // Language Tag on <html> element
   siteBanner: '/assets/banner.jpg', // Your image for og:image tag. You can find it in the /static folder
   defaultBg: '/assets/bg.png', // default post background header
   favicon: 'src/favicon.png', // Your image for favicons. You can find it in the /src folder
-  siteDescription: '', // Your site description
+  siteDescription: 'My Blog', // Your site description
   author: 'Drew Xiu', // Author for schemaORGJSONLD
   siteLogo: '/assets/logo.jpg', // Image for schemaORGJSONLD
 
