@@ -8,9 +8,9 @@
 <url> <loc>https://blog.xiuz.hu/blog/6</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.xiuz.hu/categories</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.xiuz.hu/categories/code</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://blog.xiuz.hu/categories/life</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.xiuz.hu/categories/scale-model</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.xiuz.hu/categories/web开发</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://blog.xiuz.hu/categories/life</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.xiuz.hu/tags</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.xiuz.hu/tags/1-35</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.xiuz.hu/tags/1-48</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -19,6 +19,7 @@
 <url> <loc>https://blog.xiuz.hu/tags/helicopter</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.xiuz.hu/tags/ign</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.xiuz.hu/tags/meng</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://blog.xiuz.hu/tags/nas</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.xiuz.hu/tags/spa</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.xiuz.hu/tags/tamiya</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.xiuz.hu/tags/wwii</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -49,9 +50,11 @@
 <url> <loc>https://blog.xiuz.hu/tags/小事儿</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.xiuz.hu/tags/小程序</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.xiuz.hu/tags/弹幕</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://blog.xiuz.hu/tags/折腾</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.xiuz.hu/tags/日常</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.xiuz.hu/tags/现代</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.xiuz.hu/tags/直升机</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://blog.xiuz.hu/tags/私有云</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.xiuz.hu/tags/美</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.xiuz.hu/tags/苏</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.xiuz.hu/tags/英</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -59,6 +62,7 @@
 <url> <loc>https://blog.xiuz.hu/tags/长城</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.xiuz.hu/tags/零</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.xiuz.hu/tags/飞机</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://blog.xiuz.hu/blog/2021-06-28</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.xiuz.hu/blog/2021-06-27</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.xiuz.hu/blog/2020-03-10</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.xiuz.hu/blog/2019-12-31</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
