@@ -1,7 +1,7 @@
 ---
 date: '2021-06-27'
 title: '[失踪人口回归]拖更一年多'
-category: 'life'
+category: 'Life'
 tags: ['日常']
 banner: '/assets/image/new-baby2.gif'
 ---

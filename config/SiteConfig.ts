@@ -34,5 +34,5 @@ export default {
   POST_PER_PAGE: 6,
 
   // tslint:disable-next-line:max-line-length
-  aboutMe: 'A untalented gamer / kinda-okay web developer / lousy full-stack engineer / kick-ass modeler (aircraft only) / amature drummer / safty-first sk8boi / dad',
+  aboutMe: 'A untalented gamer / kinda-okay web developer / lousy full-stack engineer / kick-ass modeler (aircraft only) / amateur drummer / safety-first sk8boi / dad',
 }
