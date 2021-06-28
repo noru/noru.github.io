@@ -19,7 +19,7 @@ interface Props {
   data: {
     markdownRemark: Post,
   }
-  pathContext: PathContext
+  pageContext: PathContext
 }
 
 export default class PostPage extends React.PureComponent<Props> {
@@ -48,7 +48,7 @@ export default class PostPage extends React.PureComponent<Props> {
   }
 
   render() {
-    const { prev, next } = this.props.pathContext
+    const { prev, next } = this.props.pageContext
     const post = this.props.data.markdownRemark
     let { imgSrc } = this.state
     return (

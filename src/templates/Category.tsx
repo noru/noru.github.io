@@ -8,7 +8,7 @@ import { Link } from '../components/Link'
 
 export default class Category extends React.PureComponent<PageProps> {
   render() {
-    const { posts, categoryName } = this.props.pathContext
+    const { posts, categoryName } = this.props.pageContext
     const totalCount = posts ? posts.length : 0
     const subline = `${totalCount} post${totalCount === 1 ? '' : 's'} tagged with "${categoryName}"`
 

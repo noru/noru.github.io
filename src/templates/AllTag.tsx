@@ -9,7 +9,7 @@ import { Link } from '../components/Link'
 
 export default class AllTagTemplate extends React.PureComponent<PageProps> {
   render() {
-    const { tags } = this.props.pathContext
+    const { tags } = this.props.pageContext
     if (tags) {
       return (
         <Layout>
