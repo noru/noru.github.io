@@ -5,7 +5,7 @@ const config = require('./config/SiteConfig').default
 exports.onCreateNode = ({ node, actions }) => {
   const { createNodeField } = actions
   if (node.internal.type === 'MarkdownRemark' && _.has(node, 'frontmatter') && _.has(node.frontmatter, 'title')) {
-    console.log(node.frontmatter.title)
+    console.log('Markdown:', node.frontmatter.title)
     const slug = `${_.kebabCase(node.frontmatter.date)}`
     createNodeField({ node, name: 'slug', value: slug })
   }

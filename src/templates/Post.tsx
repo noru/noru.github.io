@@ -28,7 +28,8 @@ export default class PostPage extends React.PureComponent<Props> {
   state = {
     imgSrc: undefined,
   }
-  componentDidMount() {
+
+  attachImageViewer() {
     if (this.contentRef) {
       let imgs = this.contentRef!.getElementsByTagName('img') || []
       // tslint:disable-next-line:prefer-for-of
@@ -46,6 +47,12 @@ export default class PostPage extends React.PureComponent<Props> {
       }
     }
   }
+  componentDidUpdate() {
+    this.attachImageViewer()
+  }
+  componentDidMount() {
+    this.attachImageViewer()
+  }
 
   render() {
     const { prev, next } = this.props.pageContext
@@ -61,7 +68,7 @@ export default class PostPage extends React.PureComponent<Props> {
               <Link to="/">{config.siteTitle}</Link>
               <SectionTitle>{post.frontmatter.title}</SectionTitle>
               <Subline light={true}>
-                {post.frontmatter.date} &mdash; {post.timeToRead} Min Read &mdash; In{' '}
+                {post.frontmatter.date} &mdash; {post.timeToRead} min read &mdash; In{' '}
                 <Link to={`/categories/${kebabCase(post.frontmatter.category)}`}>{post.frontmatter.category}</Link>
               </Subline>
             </Header>

@@ -92,7 +92,6 @@ module.exports = {
         theme_color: config.themeColor,
         display: 'standalone',
         icon: config.favicon,
-        icons: []
       },
     },
   ],
