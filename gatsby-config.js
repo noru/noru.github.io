@@ -22,8 +22,12 @@ module.exports = {
     'gatsby-plugin-sass',
     'gatsby-plugin-catch-links',
     'gatsby-plugin-sitemap',
-    'gatsby-plugin-lodash',
-    'gatsby-plugin-draft',
+    {
+      resolve: 'gatsby-plugin-draft',
+      options: {
+        publishDraft: process.env.NODE_ENV !== 'production',
+      }
+    },
     {
       resolve: 'gatsby-source-filesystem',
       options: {
