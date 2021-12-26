@@ -7,37 +7,6 @@ lang: 'en'
 banner: ''
 ---
 
-<!-- <div id="print-to-pdf">Print to PDF</div>
-
-<script data-inline-script="data-inline-script">
-  var downloadPDF = document.getElementById('print-to-pdf')
-  var dialog = null
-  downloadPDF.addEventListener('click', function() {
-    if (!dialog) {
-      dialog = document.createElement('div')
-      dialog.style = "position:fixed;left:0;top:0;right:0;bottom:0;z-index:999999;background:rgba(0,0,0,0.6);"
-      var content = document.createElement('div')
-      content.style = "position:absolute;width:600px;margin:auto;top:20%;left:0;right:0;padding: 2rem;text-align:center;border-radius:.5rem;background:#494f5c;"
-      var img = document.createElement('img')
-      img.src = '/assets/resume/print-cfg.png'
-      var printBtn = document.createElement('button')
-      printBtn.innerHTML = '<span class="fa fa-hand-o-up"></span><span>Click Here</span>'
-      printBtn.style = 'padding:.5em 1.5em;border-radius:861112px;border:none;font-size:1.5rem;background:#98c0e4;margin-bottom:1em;color:white;'
-      printBtn.addEventListener('click', function() {
-        dialog.remove()
-        window.print()
-      })
-      var text = document.createElement('h3')
-      text.innerText = 'and one more step...'
-      content.appendChild(printBtn)
-      content.append(text)
-      content.appendChild(img)
-      dialog.appendChild(content)
-    }
-    document.body.append(dialog)
-  })
-</script> -->
-
 > Before sending me any code assignments, please visit [Heres](https://blog.xiuz.hu/categories/code), [Here](https://blog.xiuz.hu/demo) and [Here](https://github.com/noru) for live demos and source code.
 
 ```javascript
@@ -46,7 +15,7 @@ console.log('Hello recruiter!')
 
 ## Overview
 
-> 7+ years programming experience in a wide range of technical stacks.
+> 9+ years programming experience in a wide range of technical stacks.
 > Strong learning ability and willingness.
 > Team player and efficient communicator, always took a role as key developer in team.
 > Tech nerd and enthusiastic about efficiency and quality.
@@ -55,7 +24,11 @@ console.log('Hello recruiter!')
 
 ## Experiences
 
-#### [Airwallex](https://www.airwallex.com) (2019-1 ~ current)
+#### [eBay](https://www.ebay.com) China Center of Engineering  (2020-3 ~ current)
+
+Frontend Lead of DSS(Data Services & Solutions) team. Building next-gen platform for eBay's data engineering with rich user interactions (IDE, Graph Editor, etc.). Also a hands on full-stack engineer with several cloud native apps development experience.
+
+#### [Airwallex](https://www.airwallex.com) (2019-1 ~ 2020-3)
 
 Experiencing various changes in a relatively short time at a fast growing Start-up. Act as a sole contributor - following through one project from E2E - or leader of 1-2 junior engineers in collaboration. Currently working on the company's first Wechat Miniprogram (a hybrid app framework running on WeChat).
 
