@@ -34,27 +34,27 @@ banner: '/assets/image/p40c/15.JPG'
 
 珍珠港应敌起飞拿下双杀的P40c
 
-![box](/assets/image/p40c/1.jpg)
-![box](/assets/image/p40c/2.jpg)
-![box](/assets/image/p40c/3.jpg)
-![box](/assets/image/p40c/4.jpg)
-![box](/assets/image/p40c/5.jpg)
-![box](/assets/image/p40c/6.jpg)
-![box](/assets/image/p40c/7.jpg)
-![box](/assets/image/p40c/8.jpg)
+![box](/assets/image/p40c/1.JPG)
+![box](/assets/image/p40c/2.JPG)
+![box](/assets/image/p40c/3.JPG)
+![box](/assets/image/p40c/4.JPG)
+![box](/assets/image/p40c/5.JPG)
+![box](/assets/image/p40c/6.JPG)
+![box](/assets/image/p40c/7.JPG)
+![box](/assets/image/p40c/8.JPG)
 
 昆明飞虎队的Hawk81 A-2
 
-![box](/assets/image/p40c/9.jpg)
-![box](/assets/image/p40c/10.jpg)
-![box](/assets/image/p40c/11.jpg)
-![box](/assets/image/p40c/12.jpg)
-![box](/assets/image/p40c/13.jpg)
-![box](/assets/image/p40c/14.jpg)
+![box](/assets/image/p40c/9.JPG)
+![box](/assets/image/p40c/10.JPG)
+![box](/assets/image/p40c/11.JPG)
+![box](/assets/image/p40c/12.JPG)
+![box](/assets/image/p40c/13.JPG)
+![box](/assets/image/p40c/14.JPG)
 
 虽然AVG(aka 飞虎队)有雇佣军性质，且由于宣传需要被神化，但只要干了是小日本我们就是朋友。最后来一张霸凌小零同学的场景（虽然现实中可能会被反杀）。
 
-![box](/assets/image/p40c/15.jpg)
+![box](/assets/image/p40c/15.JPG)
 
 ### 后记
 
