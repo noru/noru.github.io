@@ -3,7 +3,7 @@ date: '2022-03-26'
 title: 'KittyHawk AH-6J 1:35 (KH-50003)'
 category: 'ScaleModel'
 tags: ['飞机', '直升机', '美', '1:48']
-banner: '/assets/image/ah6j/1.JPG'
+banner: '/assets/image/ah6j/8.JPG'
 ---
 
 上一篇刚刚说再也不双开了, 结果马上就做出了"违背祖宗的决定": 三开!
@@ -29,7 +29,6 @@ banner: '/assets/image/ah6j/1.JPG'
 ### 制作
 
 由于上色指导的缺失, 素组过程心惊胆战的, 只好边查边组. 事后发现这个机型还是蛮简单的配色, 简单点黑色一把梭, 上点心就调一点Heli drab. 我是采用了black basing + 深绿薄喷, 觉得效果还不错.
-
 
 
 ![box](/assets/image/ah6j/1.JPG)
