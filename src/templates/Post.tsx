@@ -45,6 +45,13 @@ export default class PostPage extends React.PureComponent<Props> {
         img.style.display = 'block'
         img.style.margin = 'auto'
       }
+      let videos = this.contentRef!.getElementsByTagName('video') || []
+      for (const v of videos) {
+        v.style.width = '100%'
+        v.style.display = 'block'
+        v.style.margin = 'auto'
+      }
+
     }
   }
   componentDidUpdate() {
