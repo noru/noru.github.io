@@ -1,6 +1,6 @@
 ---
 date: '2022-06-28'
-title: '田宫 P-38G Lighting 1:48 (61120)'
+title: '田宫 P-38G Lightning 1:48 (61120)'
 category: 'ScaleModel'
 tags: ['飞机', '二战', '美', '1:48']
 banner: '/assets/image/p38g/3.JPG'
