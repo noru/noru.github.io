@@ -3,7 +3,7 @@ date: '2022-10-16'
 title: '红星Zvezda Ka-52 Alligator短吻鳄武装直升机 1:72 (7224)'
 category: 'ScaleModel'
 tags: ['飞机', '现代', '旋翼', '俄', '1:72']
-banner: '/assets/image/ka52/2.JPG'
+banner: '/assets/image/ka52/2.jpg'
 ---
 
 卡莫夫的共轴反转双旋翼武直一直是这个类型的代表，ka-52又是代表中的代表。大毛二毛打起来之后，此机又火了一把。遂想做一个，无奈目这个题材只有红星有。闲鱼上联系了一个莫斯科搞代购的，脑袋一热，定了3个Ka-52外加su-25和雅克-9。中间发生了一些不愉快退单了。也幸好此单没成，否则血亏。后面不就，闲鱼上面收了一个盒损Ka-52，于是乎。
@@ -22,12 +22,12 @@ banner: '/assets/image/ka52/2.JPG'
 
 细节上最大的问题是光电吊舱应该在机鼻下方，懒得改了。
 
-![box](/assets/image/ka52/1.JPG)
-![box](/assets/image/ka52/2.JPG)
-![box](/assets/image/ka52/3.JPG)
-![box](/assets/image/ka52/4.JPG)
-![box](/assets/image/ka52/5.JPG)
-![box](/assets/image/ka52/6.JPG)
+![box](/assets/image/ka52/1.jpg)
+![box](/assets/image/ka52/2.jpg)
+![box](/assets/image/ka52/3.jpg)
+![box](/assets/image/ka52/4.jpg)
+![box](/assets/image/ka52/5.jpg)
+![box](/assets/image/ka52/6.jpg)
 
 ### 后记
 

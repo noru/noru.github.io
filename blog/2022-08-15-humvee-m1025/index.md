@@ -3,7 +3,7 @@ date: '2022-08-15'
 title: '威骏Bronco M1114悍马战术装甲车辆 (CB35080)'
 category: 'ScaleModel'
 tags: ['非飞机', '现代', '美', '1:35']
-banner: '/assets/image/m1114/6.JPG'
+banner: '/assets/image/m1114/6.jpg'
 ---
 
 为什么突然要做个车呢？因为做完AH-6J，因巨大的旋翼占用了一个30*30的亚克力展示柜，显得里面特别空旷。多余的空间毛估了下足够放进一个悍马，毕竟这兄弟俩经常同框。于是时隔3年多的[UAZ-469](/blog/2019-01-06-pubg-scene/)之后，又开始了一次做车之旅。
@@ -19,15 +19,15 @@ banner: '/assets/image/m1114/6.JPG'
 
 整个过程没什么太多好说的，笔涂+喷涂交替施工，很是细碎费时，但慢慢推进就行了。CM技法什么的也完全没考虑，就是单色喷。旧化也比较随意。结果看起来确实差那么点意思，又说不出来差在哪里，只能说隔行如隔山吧~
 
-![box](/assets/image/m1114/1.JPG)
-![box](/assets/image/m1114/2.JPG)
-![box](/assets/image/m1114/3.JPG)
-![box](/assets/image/m1114/4.JPG)
-![box](/assets/image/m1114/5.JPG)
-![box](/assets/image/m1114/6.JPG)
-![box](/assets/image/m1114/7.JPG)
-![box](/assets/image/m1114/8.JPG)
+![box](/assets/image/m1114/1.jpg)
+![box](/assets/image/m1114/2.jpg)
+![box](/assets/image/m1114/3.jpg)
+![box](/assets/image/m1114/4.jpg)
+![box](/assets/image/m1114/5.jpg)
+![box](/assets/image/m1114/6.jpg)
+![box](/assets/image/m1114/7.jpg)
+![box](/assets/image/m1114/8.jpg)
 
 索马里两兄弟来个合照
 
-![box](/assets/image/m1114/9.JPG)
+![box](/assets/image/m1114/9.jpg)
