@@ -1,6 +1,6 @@
 ---
 date: '2023-01-10'
-title: '爱德美F-86F “The Huff” (12234)'
+title: '爱德美F-86F “The Huff”, 1:48 (12234)'
 category: 'ScaleModel'
 tags: ['飞机', '朝鲜战争', '美', '1:48']
 banner: '/assets/image/f86f/7.jpg'
