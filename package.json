@@ -29,6 +29,7 @@
     "font-awesome": "^4.7.0",
     "gatsby": "^3.8.0",
     "gatsby-plugin-catch-links": "^3.8.0",
+    "gatsby-plugin-draft": "^0.2.0",
     "gatsby-plugin-google-tagmanager": "^3.8.0",
     "gatsby-plugin-lodash": "^4.8.0",
     "gatsby-plugin-manifest": "^3.8.0",
@@ -69,7 +70,6 @@
   },
   "dependencies": {
     "@drewxiu/utils": "^1.0.33",
-    "gatsby-plugin-draft": "^0.1.0",
     "gatsby-plugin-google-gtag": "^3.8.0",
     "postcss": "^8.3.5",
     "react": "^17.0.2",
