@@ -27,7 +27,7 @@
     "@types/typography": "^0.16.0",
     "babel-plugin-styled-components": "^1.12.0",
     "font-awesome": "^4.7.0",
-    "gatsby": "^3.8.0",
+    "gatsby": "^5.4.0",
     "gatsby-plugin-catch-links": "^3.8.0",
     "gatsby-plugin-google-tagmanager": "^3.8.0",
     "gatsby-plugin-lodash": "^4.8.0",
