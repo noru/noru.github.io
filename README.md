@@ -1,6 +1,6 @@
 My blog
 
-[![Build Status](https://travis-ci.org/noru/noru.github.io.svg?branch=develop)](https://travis-ci.org/noru/noru.github.io)
+[![Deploy Gatsby site to Pages](https://github.com/noru/noru.github.io/actions/workflows/gatsby.yml/badge.svg)](https://github.com/noru/noru.github.io/actions/workflows/gatsby.yml)
 
 URL:
 
