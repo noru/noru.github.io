@@ -2,7 +2,7 @@
 date: '2019-10-10'
 title: 'HobbyBoss英国鹰式T-mk1教练机红箭表演队涂装1:48(81738)'
 category: 'ScaleModel'
-tags: ['飞机', '现代', '英', '1:48']
+tags: ['飞机', '现代', '英', '1:48', 'HobbyBoss']
 banner: '/assets/image/red-arrow/3.jpg'
 ---
 

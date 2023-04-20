@@ -2,7 +2,7 @@
 date: '2020-03-10'
 title: '[Epic Fail]小号手J-15带起飞甲板 1:72 (01670)'
 category: 'ScaleModel'
-tags: ['飞机', '现代', '中', '1:72']
+tags: ['飞机', '现代', '中', '1:72', 'Trumpeter']
 banner: '/assets/image/j15-deck/0.jpg'
 ---
 

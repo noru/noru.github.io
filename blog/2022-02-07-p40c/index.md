@@ -2,7 +2,7 @@
 date: '2022-02-07'
 title: '[双开]威骏(Bronco) P-40C 1:48 (FB4008/FB4009)'
 category: 'ScaleModel'
-tags: ['飞机', '二战', '美', '1:48']
+tags: ['飞机', '二战', '美', '1:48', 'Bronco']
 banner: '/assets/image/p40c/15.JPG'
 ---
 

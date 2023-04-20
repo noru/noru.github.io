@@ -2,7 +2,7 @@
 date: '2019-09-15'
 title: 'HobbyBoss Mig-17PFU 1:48 (80377)'
 category: 'ScaleModel'
-tags: ['飞机', '现代', '苏', '1:48']
+tags: ['飞机', '现代', '苏', '1:48', 'HobbyBoss']
 banner: '/assets/image/mig17/5.jpg'
 ---
 

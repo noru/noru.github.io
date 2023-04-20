@@ -2,7 +2,7 @@
 date: '2019-12-31'
 title: '小号手JF-17 Thounder/FC-1枭龙 1:72 (01657)'
 category: 'ScaleModel'
-tags: ['飞机', '现代', '中', '1:72']
+tags: ['飞机', '现代', '中', '1:72', 'Trumpeter']
 banner: '/assets/image/jf-17/5.jpg'
 ---
 

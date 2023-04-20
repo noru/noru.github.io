@@ -2,7 +2,7 @@
 date: '2019-05-13'
 title: '[堆积-1]意呆利/田宫A-10 1:72'
 category: 'ScaleModel'
-tags: ['飞机', '现代', '美', '1:72']
+tags: ['飞机', '现代', '美', '1:72', 'Tamiya', 'Italeri']
 banner: '/assets/image/a10/6.jpg'
 ---
 

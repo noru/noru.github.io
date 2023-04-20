@@ -2,7 +2,7 @@
 date: '2022-05-19'
 title: 'AMK 以色列幼师 Kfir C7 1:48 (86002)'
 category: 'ScaleModel'
-tags: ['飞机', '现代', '以', '1:48']
+tags: ['飞机', '现代', '以', '1:48', 'AMK']
 banner: '/assets/image/kfir/4.JPG'
 ---
 

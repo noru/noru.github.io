@@ -2,7 +2,7 @@
 date: '2019-12-02'
 title: '长谷川B-25J Mitchell轰炸机 1:72'
 category: 'ScaleModel'
-tags: ['飞机', 'WWII', '美', '1:72']
+tags: ['飞机', 'WWII', '美', '1:72', 'Hasegawa']
 banner: '/assets/image/b-25/5.jpg'
 ---
 

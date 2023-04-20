@@ -2,7 +2,7 @@
 date: '2021-12-26'
 title: '[填坑]小号手J-10AY 1:48 (02857)'
 category: 'ScaleModel'
-tags: ['飞机', '现代', '中', '1:48']
+tags: ['飞机', '现代', '中', '1:48', 'Trumpeter']
 banner: '/assets/image/j10ay/16.JPG'
 ---
 

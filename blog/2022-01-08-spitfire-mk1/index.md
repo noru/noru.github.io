@@ -2,7 +2,7 @@
 date: '2022-01-08'
 title: '[新年新机]田宫(Tamiya) Spitfire Mk.I 1:48(61119)'
 category: 'ScaleModel'
-tags: ['飞机', '二战', '英', '1:48']
+tags: ['飞机', '二战', '英', '1:48', 'Tamiya']
 banner: '/assets/image/spitfire-mk1/6.JPG'
 ---
 

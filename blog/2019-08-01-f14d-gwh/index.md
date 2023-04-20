@@ -2,7 +2,7 @@
 date: '2019-07-31'
 title: '金钱的味道 | 长城新品F-14D 1:72开箱'
 category: 'ScaleModel'
-tags: ['飞机', '长城', '1:72']
+tags: ['飞机', '长城', '1:72', 'G.W.H']
 banner: '/assets/image/f14d-gwh/box.jpg'
 ---
 

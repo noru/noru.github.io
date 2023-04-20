@@ -2,7 +2,7 @@
 date: '2022-10-16'
 title: '红星Zvezda Ka-52 Alligator短吻鳄武装直升机 1:72 (7224)'
 category: 'ScaleModel'
-tags: ['飞机', '现代', '旋翼', '俄', '1:72']
+tags: ['飞机', '现代', '旋翼', '俄', '1:72', 'Zvezda']
 banner: '/assets/image/ka52/2.jpg'
 ---
 
