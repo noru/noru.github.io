@@ -2,7 +2,7 @@
 date: '2019-05-02'
 title: '[堆积-1]意呆利Mig-29 1:72'
 category: 'ScaleModel'
-tags: ['飞机', '现代', '苏', '1:72']
+tags: ['飞机', '现代', '苏', '1:72', 'Tamiya', 'Italeri']
 banner: '/assets/image/mig29/5.jpg'
 ---
 

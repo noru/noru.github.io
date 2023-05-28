@@ -2,7 +2,7 @@
 date: '2022-05-29'
 title: '小号手 J-20 验证机2001 1:48 (01663)'
 category: 'ScaleModel'
-tags: ['飞机', '现代', '中', '1:48']
+tags: ['飞机', '现代', '中', '1:48', 'Trumpeter']
 banner: '/assets/image/j20/1.JPG'
 ---
 

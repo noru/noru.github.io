@@ -2,7 +2,7 @@
 date: '2022-12-28'
 title: '牛魔王Eduard Spitfire Mk.XVI bubbletop, 1:48 (8285)'
 category: 'ScaleModel'
-tags: ['飞机', '二战', '英', '1:48']
+tags: ['飞机', '二战', '英', '1:48', 'Eduard']
 banner: '/assets/image/spitfire-mk16/8.jpg'
 ---
 

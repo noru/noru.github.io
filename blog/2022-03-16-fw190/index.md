@@ -2,7 +2,7 @@
 date: '2022-03-16'
 title: '田宫Luftwaffe FW-190 A3 1:48 (61037)'
 category: 'ScaleModel'
-tags: ['飞机', '二战', '德', '1:48']
+tags: ['飞机', '二战', '德', '1:48', 'Tamiya']
 banner: '/assets/image/fw190/5.jpg'
 ---
 

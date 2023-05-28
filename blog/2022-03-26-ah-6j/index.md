@@ -2,7 +2,7 @@
 date: '2022-03-26'
 title: 'KittyHawk AH-6J 1:35 (KH-50003)'
 category: 'ScaleModel'
-tags: ['飞机', '直升机', '美', '1:48']
+tags: ['飞机', '直升机', '美', '1:48', 'KittyHawk']
 banner: '/assets/image/ah6j/8.JPG'
 ---
 

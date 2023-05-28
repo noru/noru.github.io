@@ -2,7 +2,7 @@
 date: '2022-07-11'
 title: '田宫 Grumman F4F-4 Wildcat (61034)'
 category: 'ScaleModel'
-tags: ['飞机', '二战', '美', '1:48']
+tags: ['飞机', '二战', '美', '1:48', 'Tamiya']
 banner: '/assets/image/f4f-4/9.jpg'
 ---
 

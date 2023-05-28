@@ -2,7 +2,7 @@
 date: '2019-06-01'
 title: '[堆积-1][宇宙第一战机]意呆利/田宫F-22 1:72'
 category: 'ScaleModel'
-tags: ['飞机', '现代', '美', '1:72', '四代机']
+tags: ['飞机', '现代', '美', '1:72', '四代机', 'Tamiya', 'Italeri']
 banner: '/assets/image/f22/paint-exp.jpg'
 ---
 

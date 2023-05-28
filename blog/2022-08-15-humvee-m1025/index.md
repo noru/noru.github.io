@@ -2,7 +2,7 @@
 date: '2022-08-15'
 title: '威骏Bronco M1114悍马战术装甲车辆 (CB35080)'
 category: 'ScaleModel'
-tags: ['非飞机', '现代', '美', '1:35']
+tags: ['非飞机', '现代', '美', '1:35', 'Bronco']
 banner: '/assets/image/m1114/6.jpg'
 ---
 

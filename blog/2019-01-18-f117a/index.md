@@ -2,7 +2,7 @@
 date: '2019-01-18'
 title: '[堆积-1]意呆利F-117A 1:72'
 category: 'ScaleModel'
-tags: ['飞机', '现代', 'Bomber', '美', '1:72']
+tags: ['飞机', '现代', 'Bomber', '美', '1:72', 'Tamiya', 'Italeri']
 banner: '/assets/image/f117a/4.jpg'
 ---
 

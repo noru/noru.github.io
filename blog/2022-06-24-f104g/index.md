@@ -2,7 +2,7 @@
 date: '2022-06-24'
 title: 'Kinetic天力 Luftwaffe F-104G Starfighter 1:48 (K48083)'
 category: 'ScaleModel'
-tags: ['飞机', '现代', '美', '1:48']
+tags: ['飞机', '现代', '美', '1:48', 'Kinetic']
 banner: '/assets/image/f104g/1.JPG'
 ---
 

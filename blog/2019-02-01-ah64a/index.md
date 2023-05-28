@@ -2,7 +2,7 @@
 date: '2019-02-01'
 title: '[堆积-1]意呆利AH-64A阿帕奇 1:72'
 category: 'ScaleModel'
-tags: ['飞机', '现代', '直升机', 'Helicopter', '美', '1:72']
+tags: ['飞机', '现代', '直升机', 'Helicopter', '美', '1:72', 'Italeri']
 banner: '/assets/image/ah64/1.jpg'
 ---
 
