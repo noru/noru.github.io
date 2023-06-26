@@ -2,7 +2,7 @@
 date: '2023-05-27'
 title: '边境模型Ju-87 G2 1:35 (BF002)'
 category: 'ScaleModel'
-tags: ['飞机', '一战', '德', '1:35', 'BorderModel']
+tags: ['飞机', '二战', 'WII', '德', '1:35', 'BorderModel']
 banner: '/assets/image/ju87-g2/8.JPG'
 ---
 
