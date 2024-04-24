@@ -3,7 +3,7 @@ date: '2023-06-25'
 title: '红星Zvezda Yak-9D 1:48 (4815)'
 category: 'ScaleModel'
 tags: ['飞机', '二战', 'WII', '苏', '1:48', 'Zvezda']
-banner: '/assets/image/yak-9d/8.jpg'
+banner: '/assets/image/yak-9d/1.jpg'
 ---
 
 精苏第二弹. La-5的小兄弟雅克9.
@@ -22,5 +22,20 @@ banner: '/assets/image/yak-9d/8.jpg'
 
 旧化比拉5用心做了不少, 细看效果还不错, 不细看跟拉5也差不多. 
 
-![box](/assets/image/yak-9d/engine.jpg)
+![box](/assets/image/yak-9d/1.jpg)
+![box](/assets/image/yak-9d/2.jpg)
+![box](/assets/image/yak-9d/3.jpg)
+![box](/assets/image/yak-9d/4.jpg)
+![box](/assets/image/yak-9d/5.jpg)
+![box](/assets/image/yak-9d/6.jpg)
+![box](/assets/image/yak-9d/7.jpg)
+![box](/assets/image/yak-9d/8.jpg)
+![box](/assets/image/yak-9d/9.jpg)
+![box](/assets/image/yak-9d/10.jpg)
+![box](/assets/image/yak-9d/11.jpg)
+![box](/assets/image/yak-9d/12.jpg)
+
+附与小兄弟合照: 
+
+![box](/assets/image/yak-9d/13.jpg)
 
