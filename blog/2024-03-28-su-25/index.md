@@ -1,5 +1,5 @@
 ---
-date: '2023-06-25'
+date: '2024-03-28'
 title: '红星Zvezda Su-25 1:48 (4807)'
 category: 'ScaleModel'
 tags: ['飞机', '现代', '苏', '1:48', 'Zvezda']

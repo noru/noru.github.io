@@ -1,5 +1,5 @@
 ---
-date: '2023-06-25'
+date: '2024-04-24'
 title: '小号手HobbyBoss AN-2/Y-5 1:48 (81705)'
 category: 'ScaleModel'
 tags: ['飞机', '二战', 'WII', '苏', '1:48', 'HobbyBoss']

@@ -1,5 +1,5 @@
 ---
-date: '2023-06-25'
+date: '2024-03-02'
 title: '红星Zvezda Yak-9D 1:48 (4815)'
 category: 'ScaleModel'
 tags: ['飞机', '二战', 'WII', '苏', '1:48', 'Zvezda']
