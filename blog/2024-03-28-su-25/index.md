@@ -3,7 +3,7 @@ date: '2024-03-28'
 title: '红星Zvezda Su-25 1:48 (4807)'
 category: 'ScaleModel'
 tags: ['飞机', '现代', '苏', '1:48', 'Zvezda']
-banner: '/assets/image/su-25/8.jpg'
+banner: '/assets/image/su-25/1.JPG'
 ---
 
 精苏第三弹. 做完二战的, 做个现代的换换口味.
@@ -19,21 +19,34 @@ banner: '/assets/image/su-25/8.jpg'
 作为著名的泥腿子, 外加苏联的辽阔地域和保养buff, 相比其他现代飞机, 制作还是难上不少. 看了很多图片作参考, 来做这种废土风的现代机: 斑驳的蒙皮, 不知道是油还是水的污迹, 一块深一块浅的漆面. 
 
 这种迷彩加旧化, 无论是black basing还是预制阴影都没什么用, 一切工作都从上完色开始. 底色也没什么深入考证, 看着差不多就来了.
-![box](/assets/image/su-25/engine.jpg)
 
 故意选了深一点的颜色, 以便用高度稀释的白色勾勒一些晒斑. 底色则相反, 调浅一些以便用深色勾边.
 
-![box](/assets/image/su-25/engine.jpg)
 水贴贴好之后直接上消光, 目的是让渗线液晕开, 达到那种雨水浸透的效果. 达到了一定效果, 但是黑色渗线液覆盖的地方饱和度低了一些, 看起来没有那种原本的颜色加深了的效果. 若是单色机身或许可以调一下色, 然后用机腹的方式处理.
-![box](/assets/image/su-25/engine.jpg)
+
+![box](/assets/image/su-25/weathering.jpg)
+![box](/assets/image/su-25/weathering2.jpg)
 
 机腹的用稍深且过度稀释的淡蓝色, 用勾线笔沿着刻线做一些加深, 模拟深浅不一的效果. 个别蒙皮重新喷一下打个补丁.
 
-![box](/assets/image/su-25/engine.jpg)
-![box](/assets/image/su-25/engine.jpg)
-![box](/assets/image/su-25/engine.jpg)
-![box](/assets/image/su-25/engine.jpg)
-![box](/assets/image/su-25/engine.jpg)
+![box](/assets/image/su-25/1.JPG)
+![box](/assets/image/su-25/2.JPG)
+![box](/assets/image/su-25/3.JPG)
+![box](/assets/image/su-25/4.JPG)
+![box](/assets/image/su-25/5.JPG)
+![box](/assets/image/su-25/6.JPG)
+![box](/assets/image/su-25/7.JPG)
+![box](/assets/image/su-25/8.JPG)
+![box](/assets/image/su-25/9.JPG)
+![box](/assets/image/su-25/10.JPG)
+![box](/assets/image/su-25/11.JPG)
+![box](/assets/image/su-25/12.JPG)
+![box](/assets/image/su-25/13.JPG)
+![box](/assets/image/su-25/14.JPG)
+![box](/assets/image/su-25/15.JPG)
+![box](/assets/image/su-25/16.JPG)
+![box](/assets/image/su-25/17.JPG)
+![box](/assets/image/su-25/18.JPG)
 
 ### 后记
 
