@@ -3,7 +3,7 @@ date: '2023-06-25'
 title: '小号手HobbyBoss AN-2/Y-5 1:48 (81705)'
 category: 'ScaleModel'
 tags: ['飞机', '二战', 'WII', '苏', '1:48', 'HobbyBoss']
-banner: '/assets/image/y-5/8.jpg'
+banner: '/assets/image/y-5/1.JPG'
 ---
 
 精苏第四弹. 涂迷彩涂腻了, 所以不想开田宫的IL-2. 虽然解放军涂装, 但是安东诺夫, 苏机也.
@@ -26,10 +26,29 @@ banner: '/assets/image/y-5/8.jpg'
 
 涂装是非常简单的纯色, 但就像书法一样, 笔划越少的字越难写好. 毕竟这么庞大的机体, 是不可能忍住不看细节的. black basing后, 用浅黄做了一些太阳暴晒的效果, 加上些许雨痕, 在沿着刻线用浅黄做一些掉漆, 总体是一个经历风雨但又没有荒废的调调.
 
+![box](/assets/image/y-5/first-coat.jpg)
+
+
 拉线起初想用流到拉丝, 因为钢缆较粗且需要负担一个横杆的重量, 弹力张线怕时间久了下垂. 实操中发现, 流道拉丝长度很难把握, 且在很难粘在漆面上. 最后还是回到了弹力张线的方法, 目前没有发现下垂感, 有待时间考验. 总体效果还是挺满意的. 
 
-![box](/assets/image/y-5/14.jpg)
-![box](/assets/image/y-5/15.jpg)
+![box](/assets/image/y-5/1.JPG)
+![box](/assets/image/y-5/2.JPG)
+![box](/assets/image/y-5/3.JPG)
+![box](/assets/image/y-5/4.JPG)
+![box](/assets/image/y-5/5.JPG)
+![box](/assets/image/y-5/6.JPG)
+![box](/assets/image/y-5/7.JPG)
+![box](/assets/image/y-5/8.JPG)
+![box](/assets/image/y-5/9.JPG)
+![box](/assets/image/y-5/10.JPG)
+![box](/assets/image/y-5/11.JPG)
+![box](/assets/image/y-5/12.JPG)
+![box](/assets/image/y-5/13.JPG)
+![box](/assets/image/y-5/14.JPG)
+
+附军博y-5照:
+
+![box](/assets/image/y-5/jb.jpg)
 
 
 ### 后记
