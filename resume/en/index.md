@@ -7,7 +7,7 @@ lang: 'en'
 banner: ''
 ---
 
-> Before sending me any code assignments, please visit [Heres](https://blog.xiuz.hu/categories/code), [Here](https://blog.xiuz.hu/demo) and [Here](https://github.com/noru) for live demos and source code.
+> Please visit [Heres](https://blog.xiuz.hu/categories/code), [Here](https://blog.xiuz.hu/demo) and [Here](https://github.com/noru) for live demos and source code if interested.
 
 ```javascript
 console.log('Hello recruiter!')
@@ -15,7 +15,7 @@ console.log('Hello recruiter!')
 
 ## Overview
 
-> 9+ years programming experience in a wide range of technical stacks.
+> 10+ years programming experience in a wide range of technical stacks.
 > Strong learning ability and willingness.
 > Team player and efficient communicator, always took a role as key developer in team.
 > Tech nerd and enthusiastic about efficiency and quality.
@@ -24,9 +24,16 @@ console.log('Hello recruiter!')
 
 ## Experiences
 
-#### [eBay](https://www.ebay.com) China Center of Engineering  (2020-3 ~ current)
+#### [eBay](https://www.ebay.com) CCoE, Data Analytics Platform (2020-3 ~ current)
 
-Frontend Lead of DSS(Data Services & Solutions) team. Building next-gen platform for eBay's data engineering with rich user interactions (IDE, Graph Editor, etc.). Also a hands on full-stack engineer with several cloud native apps development experience.
+Frontend Lead of DAP(Data Analytics Platform) team. Building next-gen platform for eBay's data engineering with rich user interactions (IDE, Graph Editor, etc.). Also a hands on full-stack engineer with several cloud native apps development experience.
+
+My primary focus at eBay was on a new one-stop **ETL** product, but I also covered other key aspects of the data platform, such as **metadata management**, pipeline **operations and maintenance**, and **data governance**.
+
+As a full-stack engineer, my foremost challenge lies in building an enterprise application platform that not only hosts essential applications but also accommodates ad-hoc tools tailored to the needs and benefits of various teams. Concurrently, developing IaaS and SaaS solutions tailored for data teams represents a significant aspect of my responsibilities.
+
+Team-up with other front-end engineer to build DAP's first UI Component library on storybook.js
+
 
 #### [Airwallex](https://www.airwallex.com) (2019-1 ~ 2020-3)
 
@@ -72,7 +79,7 @@ OOP, FP, JavaScript/TypeScript stack, React stack, Scala, C#, Android/Java, AWS,
 ## Worth-Sayings
 
 - [Predix Certified Developer](/assets/docs/predix_cert.png) & [Alibaba Cloud Certified Associate](/assets/docs/cert_aliyun.png)
-- Android native apps, Backend(Scala/Java, .Net, Node.js), CICD pipeline(Jenkins, Docker) experience.
+- Android native apps, Backend(Scala/Java, .Net, Node.js), CICD(Jenkins, Docker).
 
 ## Education
 

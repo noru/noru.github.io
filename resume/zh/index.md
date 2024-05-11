@@ -7,7 +7,7 @@ lang: 'zh'
 banner: ''
 ---
 
-> 如果对我的代码风格和能力感兴趣, 请参考[这里](https://blog.xiuz.hu/categories/code), [这里](https://blog.xiuz.hu/demo) 和 [这里](https://github.com/noru). 希望这些例子和源码可以减少不必要的代码题时间.
+> 如果对我的代码风格和能力感兴趣, 请参考[这里](https://blog.xiuz.hu/categories/code), [这里](https://blog.xiuz.hu/demo) 和 [这里](https://github.com/noru).
 
 ```javascript
 console.log('Hello recruiter!')
@@ -15,7 +15,19 @@ console.log('Hello recruiter!')
 
 ## 工作经验
 
-#### [Airwallex 空中云汇](https://www.airwallex.com) (2019-1 ~ 现在)
+#### [eBay](https://www.ebay.com) CCoE, 数据分析平台 (2020-3 ~ current)
+
+作为eBay数据分析平台（DAP）团队的资深前端，参与多个有高级用户界面（例如, 文本编辑器和图形编辑器）的产品。同时也拥有开发多个云原生应用的经验。
+
+主要职责是为数据团队建立新的ETL平台用以替代现有的方式，同时也参与元数据管理、pipeline运维和数据治理等产品的开发。
+
+作为一名全栈工程师，最大的任务和挑战是构建一个企业应用托管平台，托管关键应用程序，和为不同团队量身定制的特定工具。此外，为数据团队提供一些IaaS和SaaS方案也是我工作的重要内容。
+
+在我的主导下, 与其他前端工程师合作使用storybook.js建立了DAP的首个UI组件库，为我们的开发流程树立了新的标准。
+
+主要技术栈: React.js, Node.js, GraphQL, Kotlin/Scala, k8s, GraphQL
+
+#### [Airwallex 空中云汇](https://www.airwallex.com) (2019-1 ~ 2020-3)
 
 增长团队前端负责人. 完成项目中的架构设计与实施, 管理和建设前端工程师团队, 并参与部分后端设计实现.
 
