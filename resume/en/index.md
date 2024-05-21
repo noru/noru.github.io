@@ -34,6 +34,8 @@ As a full-stack engineer, my foremost challenge lies in building an enterprise a
 
 Team-up with other front-end engineer to build DAP's first UI Component library on storybook.js
 
+Tech Stack: React.js, Node.js, GraphQL, Kotlin/Scala, k8s, Spark, Kafka
+
 
 #### [Airwallex](https://www.airwallex.com) (2019-1 ~ 2020-3)
 

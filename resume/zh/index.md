@@ -25,7 +25,7 @@ console.log('Hello recruiter!')
 
 在我的主导下, 与其他前端工程师合作使用storybook.js建立了DAP的首个UI组件库，为我们的开发流程树立了新的标准。
 
-主要技术栈: React.js, Node.js, GraphQL, Kotlin/Scala, k8s, GraphQL
+主要技术栈: React.js, Node.js, GraphQL, Kotlin/Scala, k8s, Spark, Kafka
 
 #### [Airwallex 空中云汇](https://www.airwallex.com) (2019-1 ~ 2020-3)
 
