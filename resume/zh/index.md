@@ -65,7 +65,7 @@ console.log('Hello recruiter!')
 
 - ERP 系统 FI(财务)模块本地化产品的开发与维护. 使⽤ ABAP 提供 REST Api, UI5 作为前端框架. ABAP 是 SAP 的 ERP 系统使⽤的语⾔, UI5 是 SAP 的企业级 Html5 框架，主要基于 jQuery.
 
-技术栈: Html5, CSS3, jQuery
+技术栈: ABAP, UI5, S4 Hana
 
 #### 欧特克中国研发中心(Autodesk China R&D)- Localization Testing (2010~2012, 实习)
 
