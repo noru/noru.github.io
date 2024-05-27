@@ -22,6 +22,7 @@ module.exports = {
     'gatsby-plugin-sass',
     'gatsby-plugin-catch-links',
     'gatsby-plugin-sitemap',
+    'gatsby-plugin-pnpm',
     {
       resolve: 'gatsby-plugin-draft',
       options: {
