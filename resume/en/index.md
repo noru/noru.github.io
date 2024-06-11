@@ -24,7 +24,7 @@ console.log('Hello recruiter!')
 
 ## Experiences
 
-#### [eBay](https://www.ebay.com) CCoE, Data Analytics Platform (2020-3 ~ current)
+#### [eBay](https://www.ebay.com) CCoE, Data Analytics Platform (2020-3 ~ 2024-5)
 
 Frontend Lead of DAP(Data Analytics Platform) team. Building next-gen platform for eBay's data engineering with rich user interactions (IDE, Graph Editor, etc.). Also a hands on full-stack engineer with several cloud native apps development experience.
 
