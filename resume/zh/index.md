@@ -15,7 +15,7 @@ console.log('Hello recruiter!')
 
 ## 工作经验
 
-#### [eBay](https://www.ebay.com) CCoE, 数据分析平台 (2020-3 ~ 2024-5)
+#### [eBay](https://www.ebay.com) CCoE, 数据分析平台 (2020-3 ~ 2024-6)
 
 - eBay数据分析平台（DAP）团队的资深全栈工程师，参与多个有高级用户界面（例如, 文本编辑器和图形编辑器）的产品。同时也拥有开发多个云原生应用的经验。
 

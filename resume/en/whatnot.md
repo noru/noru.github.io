@@ -1,17 +1,25 @@
----
-date: '2019-08-15'
-title: 'Resume'
-category: 'resume'
-tags: ['']
-lang: 'en'
-banner: ''
----
+### Drew Xiu
+- +86-15601654544
+- drew.xiu@gmail.com
+- [https://blog.xiuz.hu](https://blog.xiuz.hu)
 
-> Please visit [Heres](https://blog.xiuz.hu/categories/code), [Here](https://blog.xiuz.hu/demo) and [Here](https://github.com/noru) for live demos and source code if interested.
 
-```javascript
-console.log('Hello recruiter!')
-```
+### Cover Letter
+
+I am writing to express my interest in the Tech Lead role within your growth department. With over a decade of experience in software development, including significant roles in e-commerce and fast-paced growth environments, I believe I bring the right blend of technical expertise, leadership experience, and innovative thinking to help drive the platform’s success.
+
+Here's a list of highlights of my experience and skills that I believe are relevant to the role:
+
+- Battle-Tested Fullstack Engineer with multiple user-facing products.
+- Solid 0 to 1 experience across the every development aspect: repo setup, unit testing, CI/CD & Bots, code review, etc.
+- Experience in Payment industry (critical for e-commerce) with high demand of growth (SEO, data analytics, etc.)
+- Experience in well-known e-commerce company.
+- Experience in hiring/coaching junior engineers.
+
+Thanks for considering my application.
+
+Please visit [Heres](https://blog.xiuz.hu/categories/code), [Here](https://blog.xiuz.hu/demo) and [Here](https://github.com/noru) for live demos and source code if interested.
+
 
 ## Overview
 
