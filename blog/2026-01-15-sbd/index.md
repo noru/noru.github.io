@@ -1,9 +1,9 @@
 ---
 date: '2026-01-15'
-title: '鹰翔 SBD2/3 1:48 (6001/6002)'
+title: '鹰翔 SBD2/SBD3 1:72 (6001/6002)'
 category: 'ScaleModel'
 tags: ['飞机', 'WWII', '美', '1:72', '鹰翔']
-banner: '/assets/image/SBD/DSC_4473.JPG.png'
+banner: '/assets/image/SBD/DSC_4473.JPG'
 ---
 
 本想清理工具, 暂时收手, 结果手痒有开了一把. 用Su35过了一把大模型的瘾, 这次就开这个72比例的小飞机好了. 
