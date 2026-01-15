@@ -75,7 +75,7 @@ export default class PostPage extends React.PureComponent<Props> {
               <Link to="/">{config.siteTitle}</Link>
               <SectionTitle>{post.frontmatter.title}</SectionTitle>
               <Subline light={true}>
-                {post.frontmatter.date} &mdash; {post.timeToRead} min read &mdash; In{' '}
+                {post.frontmatter.date} &mdash; {post.timeToRead} min read &mdash;
                 <Link to={`/categories/${kebabCase(post.frontmatter.category)}`}>{post.frontmatter.category}</Link>
               </Subline>
             </Header>

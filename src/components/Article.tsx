@@ -58,7 +58,7 @@ export class Article extends React.PureComponent<Props> {
           <Link to={`/blog/${slug}`}>{title}</Link>
         </Title>
         <Subline>
-          {date} &mdash; {timeToRead} Min Read &mdash; In
+          {date} &mdash; {timeToRead} Min Read &mdash;
           <Link to={`/categories/${kebabCase(category)}`}> {category}</Link>
         </Subline>
         <Excerpt>{excerpt}</Excerpt>
